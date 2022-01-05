@@ -163,9 +163,9 @@ The Central Committee of Lumina ("Central Committee") is an organisation that co
 
 #### Paragraph 2: Expiration
 The Central Committee shall expire and cease control over the Government once:
-1. There are a minimum of 300 citizen-settlers in the territory Lumina.
+1. There are a minimum of 300 citizen-settlers in the territory of Lumina.
 2. The Central Committee votes to dissolve.
-3. A referendum is held voting to dissolve the Provisional Government.
+3. A referendum is held voting to dissolve the Cenntral Committee.
 
 #### Paragraph 3: Self-Amendment
 Once the Central Committee expires, this division shall be removed.

@@ -60,15 +60,17 @@ The Universal Declaration of Human Rights is recognized as an extension of this 
 1. Respect the lawful decisions of the people voiced through the direct democratic system
 3. Respect all rights
 4. Protest or overthrow the government, any government official, or any government organisation should it reject a decision of the people
-5. Serve and defend the government and the will of the people, should it be invaded or an insurrection occur*
-6. Respect and protect the national symbols*
-7. Contribute to the public expenditures in the form established by the law*
-8. Demonstrate the required respect to the authorities and their agents*
-9. Perform military or social services according to the law*
-10. Conserve, protect, and make rational use of the goods and resources that the government and society provide to the people*
-11. Comply with the requirements established for the protection of environmental health and hygiene*
-12. Protect the natural resources, flora, and fauna, and to safeguard the preservation of a clean environment*
-13. Protect the country's cultural and historic patrimony*
+5. Serve and defend the government and the will of the people, should it be invaded or an insurrection occur<sup>1</sup>
+6. Respect and protect the national symbols<sup>1</sup>
+7. Contribute to the public expenditures in the form established by the law<sup>1</sup>
+8. Demonstrate the required respect to the authorities and their agents<sup>1</sup>
+9. Perform military or social services according to the law<sup>1</sup>
+10. Conserve, protect, and make rational use of the goods and resources that the government and society provide to the people<sup>1</sup>
+11. Comply with the requirements established for the protection of environmental health and hygiene<sup>1</sup>
+12. Protect the natural resources, flora, and fauna, and to safeguard the preservation of a clean environment<sup>1</sup>
+13. Protect the country's cultural and historic patrimony<sup>1</sup>
 14. Act, in one's relations with other people, according to the principle of human solidarity and with respect to the norms of a proper social coexistence*
 
-`*` Taken or adopted from Article 90 of the Cuban Constitution of 2019
+<hr>
+
+1: Taken or adopted from Article 90 of the Cuban Constitution of 2019

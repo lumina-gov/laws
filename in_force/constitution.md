@@ -2,7 +2,7 @@
 
 ## Contents
 
-1. [Division 1: Foundation](https://github.com/lumina-gov/laws/blob/master/constitution.md#division-1-foundation)
+1. [Division 1: Foundation](https://github.com/lumina-gov/laws/blob/master/in_force/constitution.md#division-1-foundation)
     1. [Section 1: Preamble](https://github.com/lumina-gov/laws/blob/master/constitution.md#section-1-preamble)
     2. [Section 2: Purpose](https://github.com/lumina-gov/laws/blob/master/constitution.md#section-2-purpose)
 2. [Division 2: Executive (Ministries)](https://github.com/lumina-gov/laws/blob/master/constitution.md#division-2-executive-ministries)

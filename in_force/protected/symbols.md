@@ -28,13 +28,25 @@
 ### Section 1: Purpose
 
 The purpose of the Government of Lumina is to:
-1. Establish a democracy that puts the power to create laws into the hands of its citizens.
+1. Establish a unitary<sup>1</sup> socialist secular democratic<sup>2</sup> city that puts the power to create laws into the citizens under the 7 Principles of State Unity:
+    1. Liberty<sup>3</sup>
+    2. Equality<sup>3</sup>
+    3. Fraternity<sup>3</sup>
+    4. Solidarity
+    5. Socialism<sup>1</sup>
+    6. Direct Democracy<sup>1</sup>
+    7. Secularism<sup>1</sup>
 2. Give citizens a way to create a meaningful impact.
 3. Improve the standard of living for citizens of Lumina.
 4. House the homeless population of the Australian continent.
 5. Supply a safe zone for the citizens of pacific islands, to seek refuge from rising sea levels.
 6. Remove government and corporate corruption found in representative democracies.
 7. Reduce bureaucracy through the application of digital governance.
+8. It shall be a fundamental aim of the Governmet to realise through the democratic process a socialist society, free from exploitation – a society in which the rule of law, fundamental human rights and freedom, equality and justice, political, economic and social, will be secured for all citizen.
+
+- 1: Preamble of the Constitution of the People's Republic of Bangladesh.
+- 2: Preamble of the Constitution of the Republic of India.
+- 3: Motto of the French Republic.
 
 ### Section 2: Name
 
@@ -45,9 +57,7 @@ The official name of the government shall be the Government of Lumina, which may
 The demonym of the people of Lumina is Luminian.
 
 ### Section 3: Mottos
-The official mottos of Lumina shall be:
-1. **Vi veri vniversum vivus vici** a Latin phrase, of which the official translation shall be "By the power of truth, I while living, have conquered the universe".
-2. **The Modern Solution To Governance**
+The official motto of Lumina is **Vi veri vniversum vivus vici** a Latin phrase, of which the official translation shall be "By the power of truth, I while living, have conquered the universe".
 
 ### Section 4: Flag
 
@@ -59,7 +69,7 @@ The official mottos of Lumina shall be:
 #### Paragraph 2: Image
 The official Government rendering of the flag of Lumina is as follows:
 
-<img src="https://user-images.githubusercontent.com/21011694/148295525-6f4c9678-817b-4d2f-9c8f-6b2e7394845c.jpeg" alt="Flag" title="Flag" width="300"/>
+<img src="https://user-images.githubusercontent.com/21011694/148295525-6f4c9678-817b-4d2f-9c8f-6b2e7394845c.jpeg" alt="Flag" title="Flag" width="500"/>
 
 #### Paragraph 3: Colors
 1. Lumina Purple: Hexadecimal #492C9C

@@ -2,10 +2,7 @@
 
 ## Contents
 
-1. [Division 1: Act](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#division-1-act)
-    1. [Section 1: Name](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#section-1-name)
-    2. [Section 2: Type](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#section-2-type)
-2. [Division 2: Symbols](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#division-2-symbols)
+1. [Division 1: Symbols](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#division-1-symbols)
     1. [Section 1: Purpose](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#section-1-purpose)
     2. [Section 2: Name](https://github.com/lumina-gov/acts/blob/main/in_force/protected/symbols.md#section-2-name)
         1. [Paragraph 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#paragraph-1-name)

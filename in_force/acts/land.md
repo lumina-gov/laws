@@ -27,7 +27,7 @@ There shall be a Minister of Land. The Minister of Land shall be elected by the 
 ## Part 2: Land Registry
 
 ### Section 1: Creation of a Land Registry
-Ministry of Land shall maintain an online registry of land ownership.
+Lumina Land shall maintain an online registry of land ownership.
 
 ### Section 2: Transferring of Land
 Owners of land that have their land ownership connected to the land ownership registry can sell or transfer their land using the land ownership registry.

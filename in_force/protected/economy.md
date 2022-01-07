@@ -98,8 +98,8 @@ There shall exist a Ministry of the Budget, a subministry of the Ministry of the
 ##### Paragraph 5: Ministry of Trade
 There shall exist a Ministry of Trade, a subministry of the Ministry of the Economy, which shall serve as the authority that implements the trade rules of Lumina and makes recommendations to the organisations and government of Lumina as to the best trade practices.
 
-##### Paragraph 6: Ministry of National Investment
-There shall exist a Ministry of National Investment, a subministry of the Ministry of the Economy, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
+##### Paragraph 6: Ministry of Investment
+There shall exist a Ministry of Investment, a subministry of the Ministry of the Economy, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
 
 ##### Paragraph 7: Ministry of the Treasury
 There shall exist a Ministry of the Treasury, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall supervise government assets and the government bank account.
@@ -209,13 +209,13 @@ On the 18th birthday of each Luminian citizen, the Bank of Lumina shall deposit 
 ### Section 1: Lumia
 
 #### Segment 1: Name
-The national currency of Lumina shall be the Lumia.
+The currency of Lumina is the Lumia.
 
 #### Segment 2: Symbol
-The symbol of the national currency shall be `Ł`.
+The symbol of the Lumia is `Ł`.
 
 #### Segment 3: Legal Tender
-The Lumia shall serve as the legal tender of Lumina, and all persons, organisations, and government institutions must accept it for all debts, taxes, duties, and tariffs.
+The Lumia serves as the legal tender of Lumina, and all persons, organisations, and government institutions must accept it for all debts, taxes, duties, and tariffs.
 
 #### Segment 4: Issuance
 

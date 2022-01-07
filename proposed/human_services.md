@@ -55,11 +55,10 @@ People living within the territory prior to the annexation of that territory are
 The Ministry of Human Services may decide to revoke the citizenship of an individual if a court has found that they committed treason, sedition, terrorism, or another crime against the Government, including aiding in treason, sedition, or terrorism.
 
 #### Paragraph 3: Citizenship Types and Levels
-Citizenship categorization is divided into several levels.
-    - Non-Citizen - Any person who could not reasonably considered a citizen. A person visiting for vacation, a person visiting to conduct business, etc..
-    - Temporary Citizen Status - Any person who has a visa to gain the rights imparted to them by citizenship (not a real citizen) for a finite amount of time. These include non-citizen residents, extra-national military personnel, international aid workers, UN peacekeeping forces, students, and extended visits from employees of businesses located in the territory.
-    - Full Citizen - Any person who shows allegiance to the Government who desires the benefits of citizen, who has filled any relevant means of becoming a citizen and is approved by Lumina Human Services, any member of the military, or the Government, be it a Minister or staff of a Ministry.
-    - Naturalized Citizen - See below.
+Citizenship categorization is divided into several levels:
+- Non-Citizen Status - Any person who could not reasonably considered a citizen. A person visiting for vacation, a person visiting to conduct business, etc.
+- Temporary Citizen Status - Any person who has a visa to gain the rights imparted to them by citizenship (not a real citizen) for a finite amount of time. These include non-citizen residents, extra-national military personnel, international aid workers, UN peacekeeping forces, students, and extended visits from employees of businesses located in the territory.
+- Full Citizen - Any person who shows allegiance to the Government who desires the benefits of citizen, who has filled any relevant means of becoming a citizen and is approved by Lumina Human Services, any member of the military, or the Government, be it a Minister or staff of a Ministry, or is given birthright citizenship.
 
 #### Paragraph 4: Power to Deport
 * The power to actually perform the act of deportation lies with the Lumina Police after being approved by a court.

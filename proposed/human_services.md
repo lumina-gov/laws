@@ -86,7 +86,8 @@ Any person is granted full citizenship, and well as naturalization status by rig
 #### Paragraph 8: Accounts
 Non-citizens are free to maintain their Lumina Hub and Lumibank accounts to retain wealth, transfer their assets, or buy and sell within Lumina.
 
-### Citizenship Questions
+
+### Section 2: Citizenship Questions
 Lumina Human Services is authorised to ask the following questions during a citizenship application.
 1. Current Citizenship
 2. Date of Birth

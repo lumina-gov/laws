@@ -39,11 +39,11 @@ The purpose of the Government of Lumina is to:
 5. Supply a safe zone for the citizens of pacific islands, to seek refuge from rising sea levels.
 6. Remove government and corporate corruption found in representative democracies.
 7. Reduce bureaucracy through the application of digital governance.
-8. It shall be a fundamental aim of the Governmet to realise through the democratic process a socialist society, free from exploitation – a society in which the rule of law, fundamental human rights and freedom, equality and justice, political, economic and social, will be secured for all citizen.
+8. Realise through the democratic process a socialist society, free from exploitation – a society in which the rule of law, fundamental human rights and freedom, equality and justice, political, economic and social, will be secured for all citizen.<sup>1</sup>
 
-- 1: Preamble of the Constitution of the People's Republic of Bangladesh.
-- 2: Preamble of the Constitution of the Republic of India.
-- 3: Motto of the French Republic.
+- 1: Constitution of the People's Republic of Bangladesh.
+- 2: Constitution of the Republic of India.
+- 3: Constitution of the French Republic.
 
 ### Section 2: Name
 

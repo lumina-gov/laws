@@ -4,7 +4,7 @@
 ## Division 1: Foundation
 
 ### Section 1: Preamble
-The purpose of this act is to provide and formalise the infrastructure, powers, and responsibilities of Promahealth, as well as all of its organisational structure.
+The purpose of this act is to provide and formalise the infrastructure, powers, and responsibilities of Lumina Health, as well as all of its organisational structure.
 
 ### Section 2: Ministry
 

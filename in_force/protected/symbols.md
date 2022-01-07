@@ -12,7 +12,7 @@
         1. [Paragraph 1: Description](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#paragraph-1-description)
         2. [Paragraph 2: Image](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#paragraph-2-image)
         3. [Paragraph 2: Colors](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#paragraph-2-colors)
-    5. [Section 5: Emblem](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#section-5-state-emblem)
+    5. [Section 5: Emblem](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#section-5-emblem)
     6. [Section 6: Capital City](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#section-6-capital-city)
     7. [Section 7: Language](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#section-7-language)
     8. [Section 8: Holidays](https://github.com/lumina-gov/laws/blob/main/in_force/protected/symbols.md#section-8-holidays)

@@ -1,5 +1,5 @@
 # Minister Appointments
-## Central Committee of the Government of Lumina
+## Central Committee of Lumina
 <hr>
 
 ### Documentation

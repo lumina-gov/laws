@@ -36,3 +36,6 @@ This act hereby established and founds Lumina Radio International (LRI), the pur
 
 #### Paragraph 2: Motto
 The motto of LRI is "Sharing the Voice of Democracy".
+
+#### Paragraph 3: Interval Signal
+The interval signal of LRI shall be a shortened and simplified version of the Italian partisan song "Bella Ciao".

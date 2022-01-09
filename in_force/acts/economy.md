@@ -107,6 +107,9 @@ There shall exist a Ministry of the Treasury, a subministry of the Ministry of t
 ##### Paragraph 8: Ministry of Remuneration
 There shall exist a Ministry of Remuneration, an independent subministry of the Ministry of the Economy, which shall serve as the independent council that shall decide government employee salaries and assist in efficient allocation of employees and resources for government funds.
 
+##### Paragraph 9: Ministry of Planning
+There shall exist a Ministry of Planning, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall create, implement, and coordinate Economic and Settlement Plans for Lumina, divided into 1 year and 5 year periods. They shall coordinate and make recommendations to the Ministry of the Economy and Assembly for funds for State-Owned Enterprises and Ministries and make recommendations to cooperative and private enterprises to fit within the Economic and Settlement Plans.
+
 #### Segment 2: Purpose
 The purpose of the Ministry of the Economy is to
 - Finance the people, businesses, organisations, and government of Lumina
@@ -413,3 +416,23 @@ All sales of the following products are subject to a 20% excise tax:
 4. Petrol
 5. Natural gas
 6. Oil
+
+
+## Part 8: Planning
+
+### Section 1: Central Planning Committee
+
+#### Paragraph 1: Establishment & Purpose
+The Central Planning Committee serves as the primary council for economic and settlement planning and shall coordinate and write a 1-Year Economic and Settlement Plan and a 5-Year Economic and Settlement Plan. These plans shall:
+1. Recommend the budget for Ministries
+2. Recommend investment into State-Owned Enterprises
+3. Recommend investment into cooperative and private enterprises
+4. Recommend general goals of the Government
+
+#### Paragraph 2: Meetings & Deadlines
+1. On 1 January of each year, the Central Planning Committee shall release the 1-Year Economic and Settlement Plan.
+2. On 1 January of each 5th even year (for example, 2030 or 2035), the Central Planning Committee shall release the 5-Year Economic and Settlement Plan.
+3. The Central Planning Committee shall meet as necessary to hold talks and write the plan.
+
+#### Paragraph 3: Members
+Each Minister and Director of a State-Owned Enterprise shall appoint a member to the Central Planning Committee to represent that organisation's interests. The Minister of the Economy shall themselves serve as a member and shall appoint other members to coordinate talks between the organisations and to have a final say in the plan's direction.

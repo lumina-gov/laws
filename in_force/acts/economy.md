@@ -428,6 +428,8 @@ The Central Planning Committee serves as the primary council for economic and se
 2. Recommend investment into State-Owned Enterprises
 3. Recommend investment into cooperative and private enterprises
 4. Recommend general goals of the Government
+5. Create growth goals for all types of enterprises and wages
+6. Create environmental and climate goals
 
 #### Paragraph 2: Meetings & Deadlines
 1. On 1 January of each year, the Central Planning Committee shall release the 1-Year Economic and Settlement Plan.
@@ -436,3 +438,6 @@ The Central Planning Committee serves as the primary council for economic and se
 
 #### Paragraph 3: Members
 Each Minister and Director of a State-Owned Enterprise shall appoint a member to the Central Planning Committee to represent that organisation's interests. The Minister of the Economy shall themselves serve as a member and shall appoint other members to coordinate talks between the organisations and to have a final say in the plan's direction.
+
+#### Paragraph 4: Stages of Settlement & Development
+The Central Planning Committee shall authorise several Stages of Settlement & Development, which are different levels of development in the creation of the city. Each stage shall include a new level of growth from the previous in capacity, technological development, economic growth, and overall development.

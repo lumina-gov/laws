@@ -160,7 +160,12 @@ All management positions shall be appointed by the Minister.
 ## Part 2: Structure of the Economy
 
 ### Section 1: General Summary
-The economy of Lumina follows a unique structure laid out by the democratic will of the people. The Government is involved in planning under its state-owned enterprises. In addition, there are significant structures allowing cooperative, individual, and private enterprises to be formed.
+1. The economy of Lumina follows a unique structure laid out by the democratic will of the people.
+2. The Government is involved in economic planning through its state-owned enterprises, which are for-profit enterprises owned by the Government, and therefore the people collectively.
+3. The people shall own or control the instruments and means of production and distribution, and with this end in view ownership shall assume the following forms<sup>1</sup> –
+    1. State Ownership, that is ownership by the State on behalf of the people through the creation of an efficient and dynamic nationalised public sector embracing the key sectors of the economy.
+    2. Cooperative Ownership, that is ownership by cooperatives on behalf of their members.
+    3. Private Ownership, that is ownership by a single individual of the products of their own labor or by individuals in common.
 
 ### Section 2: State-Owned Enterprises
 
@@ -441,3 +446,6 @@ Each Minister and Director of a State-Owned Enterprise shall appoint a member to
 
 #### Paragraph 4: Stages of Settlement & Development
 The Central Planning Committee shall authorise several Stages of Settlement & Development, which are different levels of development in the creation of the city. Each stage shall include a new level of growth from the previous in capacity, technological development, economic growth, and overall development.
+
+<hr>
+<sup>1</sup>: Article 13, Part 2 (Fundamental Principles of State Policy) of the Constitution of the People's Republic of Bangladesh

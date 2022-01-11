@@ -36,7 +36,7 @@
     - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-citizens-dividend-universal-basic-income)
     - [Section 4: New Adult Gift](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-new-adult-gift)
 -  [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
-    - [Section 1: Proma](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-proma)
+    - [Section 1: Lumia](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumia)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)
         - [Segment 2: Symbol](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-symbol)
         - [Segment 3: Legal Tender](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-legal-tender)
@@ -223,7 +223,7 @@ The Lumia serves as the legal tender of Lumina, and all persons, organisations, 
 #### Segment 4: Issuance
 
 ##### Paragraph 1: Organisation
-Promabank shall be the only organisation allowed to issue the Lumia, although private companies may issue banknotes or coins backed by the Lumia and which they must pay the face value to the bearer upon demand and for every Lumia that they issue they must store in their bank accounts with Lumibank.
+Lumiabank shall be the only organisation allowed to issue the Lumia, although private companies may issue banknotes or coins backed by the Lumia and which they must pay the face value to the bearer upon demand and for every Lumia that they issue they must store in their bank accounts with Lumibank.
 
 ##### Paragraph 2: Process
 (***Note: Not Completed***)

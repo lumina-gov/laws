@@ -164,7 +164,7 @@ All management positions shall be appointed by the Minister.
 2. The Government is involved in economic planning through its state-owned enterprises, which are for-profit enterprises owned by the Government, and therefore the people collectively.
 3. The people shall own or control the instruments and means of production and distribution, and with this end in view ownership shall assume the following forms<sup>1</sup> –
     1. State Ownership, that is ownership by the State on behalf of the people through the creation of an efficient and dynamic nationalised public sector embracing the key sectors of the economy.
-    2. Cooperative Ownership, that is ownership by cooperatives on behalf of their members.
+    2. Cooperative Ownership, that is ownership by cooperatives on behalf of their members, the Workers' Cooperative being the primary example, in which surplus labor value (profit) is distributed among workers based on hours contributed to their share of labor contribution.
     3. Private Ownership, that is ownership by a single individual of the products of their own labor or by individuals in common.
 
 ### Section 2: State-Owned Enterprises

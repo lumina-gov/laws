@@ -160,12 +160,34 @@ All management positions shall be appointed by the Minister.
 ## Part 2: Structure of the Economy
 
 ### Section 1: General Summary
+#### Paragraph 1: Types of Enterprises
 1. The economy of Lumina follows a unique structure laid out by the democratic will of the people.
 2. The Government is involved in economic planning through its state-owned enterprises, which are for-profit enterprises owned by the Government, and therefore the people collectively.
 3. The people shall own or control the instruments and means of production and distribution, and with this end in view ownership shall assume the following forms<sup>1</sup> –
     1. State Ownership, that is ownership by the State on behalf of the people through the creation of an efficient and dynamic nationalised public sector embracing the key sectors of the economy.
     2. Cooperative Ownership, that is ownership by cooperatives on behalf of their members, the Workers' Cooperative being the primary example, in which surplus labor value (profit) is distributed among workers based on hours contributed to their share of labor contribution.
     3. Private Ownership, that is ownership by a single individual of the products of their own labor or by individuals in common.
+
+#### Paragraph 2: Enterprise Ownership By Type
+There are 4 types of enterprises in Lumina, their type shall determine which of the forms of ownership they fall under:
+1. Natural Monopolies, which are organised under State Ownership, including but not limited to:
+    * Roads
+    * Utilities
+    * Internet
+    * Telecommunications
+    * Railroads
+    * Healthcare
+2. Networks, which are organised under Cooperative and Private Ownership, including but not limited to:
+    * Social media
+    * Search engines
+    * Financial technology
+3. Capital, which is organised under all forms of ownership, though banks are organised strictly under State Ownership, including but not limited to:
+    * Banks
+    * Capital firms
+4. Physical Products, which are organised primarily under Cooperative Ownership, though also under joint or whole State Ownership in certain cases, including but not limited to:
+    * Cafes
+    * Retail companies
+    * Manufacturing companies
 
 ### Section 2: State-Owned Enterprises
 

@@ -36,7 +36,7 @@
     - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-citizens-dividend-universal-basic-income)
     - [Section 4: New Adult Gift](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-new-adult-gift)
 -  [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
-    - [Section 1: Lumia](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumia)
+    - [Section 1: Lumi](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumi)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)
         - [Segment 2: Symbol](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-symbol)
         - [Segment 3: Legal Tender](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-legal-tender)
@@ -114,8 +114,8 @@ There shall exist a Ministry of Planning, a subministry of the Ministry of the E
 The purpose of the Ministry of the Economy is to
 - Finance the people, businesses, organisations, and government of Lumina
 - Securely hold the funds of the people, businesses, organisations, and government of Lumina
-- Manage the creation and destruction of Lumias
-- Support the economy through the creation of Lumias and independent management of credit
+- Manage the creation and destruction of Lumis
+- Support the economy through the creation of Lumis and independent management of credit
 - Facilitate investment in Lumina, both public and private
 
 ### Section 3: Electable Positions
@@ -217,7 +217,7 @@ The following enterprises shall be established and owned by the Ministry of the 
 10. Lumina Transportation Company ("Lumitrans")
 
 #### Segment 3: Stock & Par Value
-These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Lumias, except for the Lumina Land Company and the Lumina Mail Company.
+These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Lumis, except for the Lumina Land Company and the Lumina Mail Company.
 
 #### Segment 4: Sale of Stock
 The Ministry of the Economy may sell stock in these enterprises, but may sell no more than 50% + 1 shares of the total voting stock and total stock in each enterprise. In other words, the Government may sell stock but must always retain voting and equity control. Shares of Lumigo may not be sold.
@@ -232,34 +232,34 @@ Should the people decide to remove control of these enterprises from state contr
     1. In this effort, in years that make substantially more than inflation, a surplus of cash may be collected and invested in low-risk securities with the goal of supporting the dividend in less productive years.
 
 ### Section 4: New Adult Gift
-On the 18th birthday of each Luminian citizen, the Bank of Lumina shall deposit 50,000 Lumias (increasing with inflation) into their bank account with funds derived primarily from the estate tax.
+On the 18th birthday of each Luminian citizen, the Bank of Lumina shall deposit 50,000 Lumis (increasing with inflation) into their bank account with funds derived primarily from the estate tax.
 
 ## Part 3: Currency
 
-### Section 1: Lumia
+### Section 1: Lumi
 
 #### Segment 1: Name
-The currency of Lumina is the Lumia.
+The currency of Lumina is the Lumi.
 
 #### Segment 2: Symbol
-The symbol of the Lumia is `Ł`.
+The symbol of the Lumi is `Ł`.
 
 #### Segment 3: Legal Tender
-The Lumia serves as the legal tender of Lumina, and all persons, organisations, and government institutions must accept it for all debts, taxes, duties, and tariffs.
+The Lumi serves as the legal tender of Lumina, and all persons, organisations, and government institutions must accept it for all debts, taxes, duties, and tariffs.
 
 #### Segment 4: Issuance
 
 ##### Paragraph 1: Organisation
-Lumiabank shall be the only organisation allowed to issue the Lumia, although private companies may issue banknotes or coins backed by the Lumia and which they must pay the face value to the bearer upon demand and for every Lumia that they issue they must store in their bank accounts with Lumibank.
+Lumibank shall be the only organisation allowed to issue the Lumi, although private companies may issue banknotes or coins backed by the Lumi and which they must pay the face value to the bearer upon demand and for every Lumi that they issue they must store in their bank accounts with Lumibank.
 
 ##### Paragraph 2: Process
 (***Note: Not Completed***)
-The process for issuing Lumias shall be
+The process for issuing Lumis shall be
 
 Member of the Monetary Council brings 
 
 #### Segment 5: Digital Currency
-Lumia shall be a fully digital currency, stored on Lumabank servers.
+Lumi shall be a fully digital currency, stored on Lumabank servers.
 
 ## Part 4: Central Banking
 
@@ -282,7 +282,7 @@ The Monetary Council has the powers to:
 - Set consumer price index targets
 - Set money supply targets
 - Set exchange rate targets
-- Set the Lumia purchasing price in foreign currencies
+- Set the Lumi purchasing price in foreign currencies
 - Make any decisions necessary related to the general system, structure, etc. of the bank and the financial system of the nation.
 
 #### Segment 3: Meetings
@@ -328,8 +328,8 @@ The Lumibank website shall serve as the central hub for transacting, it will inc
 - view bank accounts
 - set up joint accounts
 - set up business accounts
-- buy Lumias with foreign currency
-- offer Lumias for sale for foreign currency and bidding.
+- buy Lumis with foreign currency
+- offer Lumis for sale for foreign currency and bidding.
 
 ### Section 2: User System
 1. The Lumibank website shall integrate with Lumina’s central user system. Users should be able to login into the bank using their central user system account (OAuth scheme). Users may have a mobile number and email linked to their account, which they can assign a default bank account to for incoming transfers.

@@ -57,6 +57,7 @@ The Universal Declaration of Human Rights is recognized as an extension of this 
 9. Every minor has the right to a loving family that supports their basic rights and their identity. Parents are required to obtain licenses proving their capacity to meet these requirements.
 
 ## Division 3: Duties
+Every citizen in Lumina has the duty to:
 1. Respect the lawful decisions of the people voiced through the direct democratic system
 3. Respect all rights
 4. Protest or overthrow the government, any government official, or any government organisation should it reject a decision of the people
@@ -70,6 +71,7 @@ The Universal Declaration of Human Rights is recognized as an extension of this 
 12. Protect the natural resources, flora, and fauna, and to safeguard the preservation of a clean environment<sup>1</sup>
 13. Protect the country's cultural and historic patrimony<sup>1</sup>
 14. Act, in one's relations with other people, according to the principle of human solidarity and with respect to the norms of a proper social coexistence*
+15. Work for and contribute to the development of the economy
 
 <hr>
 

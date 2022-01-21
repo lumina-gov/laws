@@ -27,6 +27,8 @@
         -  [Segment 2: Appointment](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-appointment)
 - [Part 2: Structure of the Economy](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-2-structure-of-the-economy)
     - [Section 1: General Summary](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-general-summary)
+        - [Paragraph 1: Types of Enterprises](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-1-types-of-enterprises)
+        - [Paragraph 2: Enterprise Ownership By Type](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-2-enterprise-ownership-by-type)
     - [Section 2: State-Owned Enterprises](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-state-owned-enterprises)
         - [Segment 1: Overview](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-overview)
         - [Segment 2: List of Government Enterprises](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-list-of-government-enterprises)
@@ -68,11 +70,9 @@
         - [Segment 3: Fees](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-fees)
         - [Segment 4: Transaction Data](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-4-transaction-data)
 - [Part 7: Taxation](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-7-taxation)
-    - [Section 1: Enterprise Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-enterprise-tax)
-    - [Section 2: Land Value Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-land-value-tax)
-    - [Section 3: Transaction Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-transaction-tax)
-    - [Section 4: Estate Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-estate-tax)
-    - [Section 5: Excise Taxes](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-5-excise-taxes)
+    - [Section 1: Land Value Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-land-value-tax)
+    - [Section 2: Transaction Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-transaction-tax)
+    - [Section 3: Estate Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-estate-tax)
 
 ## Part 1: Foundation
 

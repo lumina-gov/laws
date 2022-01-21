@@ -389,20 +389,10 @@ Transaction data includes
 
 ## Part 7: Taxation
 
-### Section 1: Enterprise Tax
-All enterprises operating in Lumina except for worker's cooperative enterprises and mutual aid and community organisations are required to pay the following percentages of their incomes after expenses as a tax to the Ministry of Taxation:
-
-Annual profit range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that range (Ł)
--|-|-
-0-20,000|0|0
-20,000-100,000|5|4,000
-100,000-1,000,000|10|90,000
-1,000,000+|15|∞
-
-### Section 2: Land Value Tax
+### Section 1: Land Value Tax
 All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
 
-### Section 3: Transaction Tax
+### Section 2: Transaction Tax
 1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
 
 Annual income (Ł)|Transaction tax added (%)
@@ -426,7 +416,7 @@ Wealth (Ł)|Transaction tax added (%)
 2. For example, if an individual has an income of 75,000 Ł per year and a wealth of 750,000 Ł, their transaction tax total would be 3.5% (1% for their income bracket and 1.5% for their wealth bracket). If they bought a product or service that costs 100 Ł, their tax would be 3.5 Ł.
 3. Information about income and wealth are required to be kept confidential on all Lumibank systems. Therefore, transaction tax information is confidential as well and should not be provided to any worker or on any receipt unless authorised by that customer.
 
-### Section 4: Estate Tax
+### Section 3: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the total amount of money being inherited.
 Inheritance range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that range (Ł)
 -|-|-
@@ -434,16 +424,6 @@ Inheritance range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that
 20,000-100,000|30|24,000
 100,000-1,000,000|50|450,000
 1,000,000+|70|∞
-
-### Section 5: Excise Taxes
-All sales of the following products are subject to a 20% excise tax:
-1. Luxury goods
-2. Recreational drugs
-3. Tobacco
-4. Petrol
-5. Natural gas
-6. Oil
-
 
 ## Part 8: Planning
 

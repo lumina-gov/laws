@@ -37,7 +37,12 @@
         - [Segment 5: Removal from Government Control](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-5-removal-from-government-control)
     - [Section 3: Citizens' Dividend (Universal Basic Income)](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-citizens-dividend-universal-basic-income)
     - [Section 4: New Adult Gift](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-new-adult-gift)
--  [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
+    - [Section 5: Development Corps.](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-5-development-corps.)
+        - [Segment 1: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-development-corps.)
+        - [Segment 2: Salary](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-salary)
+        - [Segment 3: Housing Plan](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-housing-plan)
+    - [Section 5: Equity For Land Initiative](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-5-equity-for-land-initiative)
+- [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
     - [Section 1: Lumi](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumi)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)
         - [Segment 2: Symbol](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-symbol)
@@ -233,6 +238,20 @@ Should the people decide to remove control of these enterprises from state contr
 
 ### Section 4: New Adult Gift
 On the 18th birthday of each Luminian citizen, the Bank of Lumina shall deposit 50,000 Lumis (increasing with inflation) into their bank account with funds derived primarily from the estate tax.
+
+### Section 5: Development Corps.
+
+#### Segment 1: Purpose
+The Development Corps. exists to develop infrastructure, to remove the need for unemployment, and to provide a guaranteed level of income security for all workers.
+
+#### Segment 2: Salary
+The base salary of Privates of the Development Corps. is equivalent to 20 Lumis per hour, adjusted for inflation relative to 2021 levels.
+
+#### Segment 3: Housing Plan
+All Corps. employees receive individual housing during their service, depending on the environment that they work in. After 3,000 hours of service in the Corps., they are entitled to own an individual apartment of a minimum of 40 square meters paid by the Corps. After receiving a home, they may not transfer their home for a minimum of 10 years and must occupy it for at least 120 days of the year.
+
+### Section 6: Equity For Land Initiative
+Enterprises may receive government-owned land plots and offices in exchange for equity in their enterprises. Enterprises may not transfer the land for a minimum of 20 years and must use it productively.
 
 ## Part 3: Currency
 

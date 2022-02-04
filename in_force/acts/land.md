@@ -40,7 +40,8 @@ Owners of land that have their land ownership connected to the land ownership re
 ### Section 4: Rural Plots
 1. All rural land that is owned by Lumina Land shall be sectioned off into townships.
 2. Townships shall be divided into 36 separate plots of land in a 6 by 6 pattern.
-3. Each plot in a township shall be 0.1 kilometers by 0.1 kilometers.
+3. Each plot in a township shall be 0.01° by 0.01° (about 1.18573 square kilometers).
+4. Rural plots may be subdivided after the land owner requests and Lumina Land approves of the change and creates a new plot.
 
 ### Section 5: City Plots
 1. All city land that is owned by Lumina Land shall be sectioned off into districts.

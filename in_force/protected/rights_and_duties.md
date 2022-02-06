@@ -55,7 +55,8 @@ The Ministry of Human Services shall protect the following liberties:
 7. Everyone has the right to enjoy and entertain themselves.
 8. Everyone has the right to high-quality affordable healthcare.
 9. Every minor has the right to a loving family that supports their basic rights and their identity. Parents are required to obtain licenses proving their capacity to meet these requirements.
-10. Every worker has the right to social security. When a person cannot work due to age, maternity, paternity, disability, or illness, the social 
+10. Every worker has the right to social security. When a person cannot work due to age, maternity, paternity, disability, or illness, the social security and pension systems will provide them a basic quality of life.
+11. No worker shall be obligated to work for more than 40 hours per week or 10 hours on a given day (unless their job is essential to public safety as determined by the Minister of Human Services, which they must consent to understanding). Any person working these hours has the right to be able to afford food, water, shelter, education and have spare money and time to develop their education and friendships and have rest time.
 
 ## Division 3: Duties
 Every citizen of Lumina has the duty to:

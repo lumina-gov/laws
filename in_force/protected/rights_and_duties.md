@@ -61,7 +61,7 @@ The Ministry of Human Services shall protect the following liberties:
 Every citizen of Lumina has the duty to:
 1. Respect the lawful decisions of the people voiced through the direct democratic system.
 3. Respect the legal rights of all persons.
-4. Protest or overthrow the government, any government official, or any government organisation should it reject a decision of the people.
+4. Protest and defy any government organisation or official should they reject a decision decided by the people through the direct democracy.
 5. Serve and defend the government and the will of the people, should it be invaded or an insurrection occur<sup>1</sup>.
 6. Respect and protect the national symbols<sup>1</sup>.
 7. Contribute to the public expenditures in the form established by the law<sup>1</sup>.

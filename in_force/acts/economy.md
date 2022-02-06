@@ -41,7 +41,7 @@
         - [Segment 1: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-development-corps.)
         - [Segment 2: Salary](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-salary)
         - [Segment 3: Housing Plan](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-housing-plan)
-    - [Section 5: Equity For Land Initiative](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-5-equity-for-land-initiative)
+    - [Section 6: Equity For Land Initiative](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-6-equity-for-land-initiative)
 - [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
     - [Section 1: Lumi](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumi)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)

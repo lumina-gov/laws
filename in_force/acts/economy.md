@@ -277,10 +277,10 @@ The Lumi serves as the legal tender of Lumina, and all persons, organisations, a
 Lumibank shall be the only organisation allowed to issue the Lumi, although private companies may issue banknotes or coins backed by the Lumi and which they must pay the face value to the bearer upon demand and for every Lumi that they issue they must store in their bank accounts with Lumibank.
 
 ##### Paragraph 2: Process
-Lumis may only be authorised to be issued by a reason permitted by law or through a quantitative easing program in recessions once approved by the Monetary Council. The growth of the  total supply of Lumis may not increase faster than the increase in citizenship population + 4% in normal years or 5% in recession years. Purposes of Lumi creation permitted by law include:
+Lumis may only be authorised to be issued by a reason permitted by law or through a quantitative easing program in recessions once approved by the Monetary Council. Outside of direct conversions between currencies, growth of the  total supply of Lumis may not increase faster than the increase in citizenship population + 4% in normal years or 5% in recession years. Purposes of Lumi creation permitted by law include:
 * New citizen bonuses
 * Citizen referral bonuses
-* Direct conversion of currency at the rate of 1 Australian Dollar to 1 Lumi
+* Direct conversion of currency at the rate determined by the Monetary Council
 * Payment of government staff
 
 #### Segment 5: Digital Currency

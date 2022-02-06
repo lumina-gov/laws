@@ -277,10 +277,11 @@ The Lumi serves as the legal tender of Lumina, and all persons, organisations, a
 Lumibank shall be the only organisation allowed to issue the Lumi, although private companies may issue banknotes or coins backed by the Lumi and which they must pay the face value to the bearer upon demand and for every Lumi that they issue they must store in their bank accounts with Lumibank.
 
 ##### Paragraph 2: Process
-(***Note: Not Completed***)
-The process for issuing Lumis shall be
-
-Member of the Monetary Council brings 
+Lumis may only be authorised to be issued by a reason permitted by law or through a quantitative easing program in recessions once approved by the Monetary Council. The growth of the  total supply of Lumis may not increase faster than the increase in citizenship population + 4% in normal years or 5% in recession years. Purposes of Lumi creation permitted by law include:
+* New citizen bonuses
+* Citizen referral bonuses
+* Direct conversion of currency at the rate of 1 Australian Dollar to 1 Lumi
+* Payment of government staff
 
 #### Segment 5: Digital Currency
 Lumi shall be a fully digital currency, stored on Lumabank servers.
@@ -316,14 +317,14 @@ The Council shall have meetings to discuss and review both monetary policy and n
 The Council may provide reports and recommendations to the Ministers of every sub-Ministry and the Minister of the Economy after each meeting.
 
 ### Section 2: Roles
-The roles of the Monetary Council include:
-- to issue and destroy the currency
-- to provide funding to the treasury for deficit government expenditure
-- to fund lending operations for Lumibank’s retail banking department
-- to charge interest rates set by the Monetary Policy Council
-- to act as a hub for foreign currency exchange
-- to hold foreign money reserves, commodities, and other assets in the reserves of Lumibank
-- to issue bonds and authorize bond payments
+The roles of the Monetary Council are to:
+- issue and destroy currency
+- provide funding to the treasury for deficit government expenditure
+- fund lending operations for Lumibank’s retail banking department
+- charge interest rates set by the Monetary Policy Council
+- act as a hub for foreign currency exchange
+- buy, sell, and manage foreign money reserves, commodities, and other assets in reserve
+- issue bonds and authorize bond payments
 
 ## Part 5: Retail Banking
 

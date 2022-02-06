@@ -12,6 +12,8 @@
             - [Paragraph 6: Ministry of National Investment](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-6-ministry-of-national-investment)
             - [Paragraph 7: Ministry of the Treasury](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-7-ministry-of-the-treasury)
             - [Paragraph 8: Ministry of Remuneration](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-8-ministry-of-remuneration)
+            - [Paragraph 9: Ministry of Planning](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-9-ministry-of-Planning)
+            - [Paragraph 10: Ministry of Worker Cooperatives](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-10-ministry-of-worker-cooperatives)
         - [Segment 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-purpose)
     - [Section 3: Electable Positions](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-electable-positions)
         - [Segment 1: Minister](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-minister)
@@ -114,6 +116,9 @@ There shall exist a Ministry of Remuneration, an independent subministry of the 
 
 ##### Paragraph 9: Ministry of Planning
 There shall exist a Ministry of Planning, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall create, implement, and coordinate Economic and Settlement Plans for Lumina, divided into 1 year and 5 year periods. They shall coordinate and make recommendations to the Ministry of the Economy and Assembly for funds for State-Owned Enterprises and Ministries and make recommendations to cooperative and private enterprises to fit within the Economic and Settlement Plans.
+
+##### Paragraph 10: Ministry of Worker Cooperatives
+There shall exist a Ministry of Worker Cooperatives, a subministry of the Ministry of the Economy, which shall serve as the body responsible for supporting the creation and financing of worker cooperatives in the industries required by law.
 
 #### Segment 2: Purpose
 The purpose of the Ministry of the Economy is to

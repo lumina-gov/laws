@@ -182,11 +182,11 @@ There are 4 types of enterprises in Lumina, their type shall determine which of 
     * Telecommunications
     * Railroads
     * Healthcare
-2. Networks, which are organised under Cooperative and Private Ownership, including but not limited to:
+2. Networks & Innovation, which are organised under Cooperative and Private Ownership, including but not limited to:
     * Social media
     * Search engines
     * Financial technology
-3. Capital, which is organised under all forms of ownership, though banks are organised strictly under State Ownership, including but not limited to:
+3. Capital, which is organised under all forms of ownership (though banks are organised strictly under State Ownership), including but not limited to:
     * Banks
     * Capital firms
 4. Physical Products, which are organised primarily under Cooperative Ownership, though also under joint or whole State Ownership in certain cases, including but not limited to:

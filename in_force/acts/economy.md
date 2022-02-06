@@ -44,6 +44,10 @@
         - [Segment 2: Salary](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-salary)
         - [Segment 3: Housing Plan](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-housing-plan)
     - [Section 6: Equity For Land Initiative](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-6-equity-for-land-initiative)
+    - [Section 7: Food Subsidization System](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-7-food-subsidization-system)
+        - [Segment 1: Introduction](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-introduction)
+        - [Segment 2: Qualification](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-qualification)
+        - [Segment 3: Process](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-process)
 - [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
     - [Section 1: Lumi](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumi)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)
@@ -257,6 +261,17 @@ All Corps. employees receive individual housing during their service, depending 
 
 ### Section 6: Equity For Land Initiative
 Enterprises may receive government-owned land plots and offices in exchange for equity in their enterprises. Enterprises may not transfer the land for a minimum of 20 years and must use it productively.
+
+### Section 7: Food Subsidization System
+
+#### Segment 1: Introduction
+Article 25 of the Universal Declaration of Human Rights, a recognised part of the law of Lumina, states that every person has the right to a "standard of living adequate for the health and well-being of himself and of his family, including food, clothing, housing and medical care and necessary social services, and the right to security in the event of unemployment, sickness, disability, widowhood, old age or other lack of livelihood in circumstances beyond his control" (the masculine form here in the traditional gender neutral sense). Adequate access to food is the primary need and right of humans and the Government introduces policy to protect and defend this right. Inspired by the Cuban food rationing system, the Ministry of the Economy is implementing a system to subsidize the cost of food in Lumina in order to ensure that each person has access to their nutricionally-required caloric intake.
+
+#### Segment 2: Qualification
+Every person who is legally living in Lumina and pays all of the taxes that are required of them is eligible to participate in the Food Subsidization System ("System").
+
+#### Segment 3: Process
+The Government will maintain a digital system of records relating to the System, storing owed calorie values in a similar way to currency. Each day, each person who participates in the System is given 2,000 calories in their digital balance. Food stores are required to accept calories as a form of payment for non-premium, non-snack items, with each calorie the person has in their balance coorelating to a calorie in a food product. The Bank of Lumina will record the cost of all products purchased with calories and credit the value to the store. The Minister of Health may maintain a list of which types of products qualify and do not qualify under the System.
 
 ## Part 3: Currency
 

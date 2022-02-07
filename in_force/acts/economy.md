@@ -271,7 +271,15 @@ Article 25 of the Universal Declaration of Human Rights, a recognised part of th
 Every person who is legally living in Lumina and pays all of the taxes that are required of them is eligible to participate in the Food Subsidization System ("System").
 
 #### Segment 3: Process
-The Government will maintain a digital system of records relating to the System, storing owed calorie values in a similar way to currency. Each day, each person who participates in the System is given 2,000 calories in their digital balance. Food stores are required to accept calories as a form of payment for non-premium, non-snack items, with each calorie the person has in their balance coorelating to a calorie in a food product. The Bank of Lumina will record the cost of all products purchased with calories and credit the value to the store. The Minister of Health may maintain a list of which types of products qualify and do not qualify under the System.
+1. The Government will maintain a digital system of records relating to the System, storing owed Kilocalorie Credits (each exchangeable for food of 1 kilocalorie) in a similar way to currency.
+2. Each day, each person who participates in the System is given a certain amount of Kilocalorie Credits based on demographic factors (the default is 2,000) in their digital balance. Doctors are required to report their recommendation for how many kilocalories each of their clients should receive, which then becomes that person's default.
+3. Food stores are required to accept Kilocalorie Credits as a form of payment for products, with each calorie the person has in their balance coorelating to a calorie in a food product.
+4. Food stores must clearly mark which products accept Kilocalorie Credits, for example by marking it clearly on packaging or maintaining separate sections of stores for eligible products.
+5. Items purchased with Kilocalorie Credits may not exceed 0.015 Lumis per calorie.
+6. The Bank of Lumina will record the cost of all products purchased with Kilocalorie Credits and credit the Lumi value to the store.
+7. The Minister of Health may maintain a list of which types of products qualify and do not qualify under the System.
+8. In order to ensure a basic quality of nutrition is met for everyone, Kilocalorie Credits are non-transferrible.
+9. The Kilocalorie Credits of minors are given to their guardian(s) by default, although they may opt to receive them themselves after they turn 13.
 
 ## Part 3: Currency
 

@@ -176,7 +176,7 @@ All management positions shall be appointed by the Minister.
 ### Section 1: General Summary
 #### Paragraph 1: Types of Enterprises
 1. The economy of Lumina follows a unique structure laid out by the democratic will of the people.
-2. The Government is involved in economic planning through its state-owned enterprises, which are for-profit enterprises owned by the Government, and therefore the people collectively.
+2. The Government is involved in economic planning through its State-Owned Enterprises, which are for-profit and non-profit enterprises owned by the Government, and therefore the people collectively.
 3. The people shall own or control the instruments and means of production and distribution, and with this end in view ownership shall assume the following forms<sup>1</sup> –
     1. State Ownership, that is ownership by the State on behalf of the people through the creation of an efficient and dynamic nationalised public sector embracing the key sectors of the economy.
     2. Cooperative Ownership, that is ownership by cooperatives on behalf of their members, the Workers' Cooperative being the primary example, in which surplus labor value (profit) is distributed among workers based on hours contributed to their share of labor contribution.
@@ -218,17 +218,17 @@ The Government participates in the economy through its control over important in
 - Mail
 
 #### Segment 2: List of Government Enterprises
-The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with "Company" excluded (except for the Bank of Lumina):
-1. Lumina Healthcare Company ("Lumihealth")
-2. Lumina Utilities Company ("Spark", "Lumiutilities", "Lumiutil")
+The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with the designator excluded (except for the Bank of Lumina), with the designator "Company" referring to for-profit enterprises, "Foundation" referring to non-profit enterprises, and "Agency" referring to subsidized enterprises (services provided by the ministry designated but owned by the Ministry of the Economy), and the Bank of Lumina being a for-profit enterprise:
+1. Lumina Health Agency ("Lumihealth") (Ministry of Health)
+2. Lumina Utilities Foundation ("Spark", "Lumiutilities", "Lumiutil")
 3. Bank of Lumina ("Lumibank")
-4. Lumina Housing Company ("Lumihouse")
+4. Lumina Housing Foudation ("Lumihouse")
 5. Lumina Land Company ("Lumiland")
 6. Lumina Manufacturing Company ("Lumimanu")
 7. Lumina Mining Company ("Lumimine"), which must be at least a 50% shareholder of every mining operation in Lumina
 8. Lumina Gas & Oil Company ("LG&O", "Lumigo"), which shall have monopoly power
-9. Lumina Mail Company ("Lumimail")
-10. Lumina Transportation Company ("Lumitrans")
+9. Lumina Mail Foundation ("Lumimail")
+10. Lumina Transportation Foundation ("Lumitrans")
 
 #### Segment 3: Stock & Par Value
 These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Lumis, except for the Lumina Land Company and the Lumina Mail Company.

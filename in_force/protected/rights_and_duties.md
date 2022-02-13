@@ -12,8 +12,13 @@ The purpose of this act lay out and conserve compulsory human rights and to defi
 - **Adult Age**: 18 years of age
 
 ## Division 2: Rights
-### Section 1: General Rights
-The Universal Declaration of Human Rights is recognized as an extension of this act and the most reasonable ministry shall protect each right within.
+### Section 1: International Law
+The following international documents are recognized as extentions of this act and as fully enforcable parts of law, of which all appropriate ministries shall enforce (assuming Lumina as a State Party to all):
+- [Universal Declaration of Human Rights](https://www.un.org/sites/un2.un.org/files/udhr.pdf)
+- [International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf)
+- [International Covenant on Civil and Political Rights](https://www.ohchr.org/Documents/ProfessionalInterest/ccpr.pdf)
+- [United Nations Declaration on the Rights of Indigenous Peoples](https://undocs.org/pdf?symbol=en/A/RES/61/295)
+- [Convention on the Rights of Persons with Disabilities](https://www.un.org/disabilities/documents/convention/convention_accessible_pdf.pdf)
 
 ### Section 2: Individual Liberty
 The Ministry of Security and Ministry of Justice shall protect the following liberties:

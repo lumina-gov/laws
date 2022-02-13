@@ -69,14 +69,14 @@ Every citizen of Lumina has the duty to:
 3. Respect the legal rights of all persons.
 4. Protest and defy any government organisation or official should they reject a decision decided by the people through the direct democracy.
 5. Serve and defend the government and the will of the people, should it be invaded or an insurrection occur<sup>1</sup>.
-6. Respect and protect the national symbols<sup>1</sup>.
+6. Respect and protect the governnment symbols<sup>1</sup>.
 7. Contribute to the public expenditures in the form established by the law<sup>1</sup>.
 8. Demonstrate the required respect to the authorities and their agents<sup>1</sup>.
 9. Perform military or social services according to the law<sup>1</sup>.
 10. Conserve, protect, and make rational use of the goods and resources that the government and society provide to the people<sup>1</sup>.
 11. Comply with the requirements established for the protection of environmental health and hygiene<sup>1</sup>.
 12. Protect the natural resources, flora, and fauna, and to safeguard the preservation of a clean environment<sup>1</sup>.
-13. Protect the country's cultural and historic patrimony<sup>1</sup>.
+13. Protect the cultural and historic patrimony and to protect and respect the cultures, languages, traditions, and lands of the aboriginal people<sup>1</sup>.
 14. Act, in one's relations with other people, according to the principle of human solidarity and with respect to the norms of a proper social coexistence<sup>1</sup>.
 15. Work for and contribute to the development of the economy.
 

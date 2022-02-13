@@ -222,7 +222,7 @@ The following enterprises shall be established and owned by the Ministry of the 
 1. Lumina Health Agency ("Lumihealth") (Ministry of Health)
 2. Lumina Utilities Foundation ("Spark", "Lumiutilities", "Lumiutil")
 3. Bank of Lumina ("Lumibank")
-4. Lumina Housing Foudation ("Lumihouse")
+4. Lumina Housing Foundation ("Lumihouse")
 5. Lumina Land Company ("Lumiland")
 6. Lumina Manufacturing Company ("Lumimanu")
 7. Lumina Mining Company ("Lumimine"), which must be at least a 50% shareholder of every mining operation in Lumina

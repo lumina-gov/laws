@@ -21,6 +21,7 @@
     - [Section 1: Land Value Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-land-value-tax)
     - [Section 2: Transaction Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-transaction-tax)
     - [Section 3: Estate Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-estate-tax)
+    - [Section 4: Capital & Dividend Taxes](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-capital-&-dividend-taxes)
 
 ## Part 1: Foundation
 
@@ -107,3 +108,6 @@ Inheritance range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that
 20,000-100,000|30|24,000
 100,000-1,000,000|50|450,000
 1,000,000+|70|∞
+
+### Section 4: Capital Tax
+All capital gains and dividends are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina equivalent to 2 times the transaction tax.

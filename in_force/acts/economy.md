@@ -48,6 +48,7 @@
         - [Segment 1: Introduction](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-introduction)
         - [Segment 2: Qualification](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-qualification)
         - [Segment 3: Process](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-process)
+    - [Section 8: Working Hours](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-8-working-hours)
 - [Part 3: Currency](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-3-currency)
     - [Section 1: Lumi](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-lumi)
         - [Segment 1: Name](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-name)
@@ -280,6 +281,9 @@ Every person who is legally living in Lumina and pays all of the taxes that are 
 7. The Minister of Health may maintain a list of which types of products qualify and do not qualify under the System.
 8. In order to ensure a basic quality of nutrition is met for everyone, Kilocalorie Credits are non-transferrible.
 9. The Kilocalorie Credits of minors are given to their guardian(s) by default, although they may opt to receive them themselves after they turn 13.
+
+### Section 8: Working Hours
+The Government shall make it a policy to support the gradual reduction of normal working hours through the advancement of autonomous industry and making investments and paying a gradually increasing basic income. The Government shall have a goal of reducing the average number of hours in a week by 1 hour per 5 years. The purpose of this program is to reduce the necessity for compulsory labor and allow people to pursue their passions, have more time for education, developing relationships, and leisure.
 
 ## Part 3: Currency
 

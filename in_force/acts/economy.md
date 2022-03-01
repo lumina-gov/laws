@@ -81,10 +81,6 @@
         - [Segment 2: Clearance](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-clearance)
         - [Segment 3: Fees](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-3-fees)
         - [Segment 4: Transaction Data](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-4-transaction-data)
-- [Part 7: Taxation](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-7-taxation)
-    - [Section 1: Land Value Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-land-value-tax)
-    - [Section 2: Transaction Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-transaction-tax)
-    - [Section 3: Estate Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-estate-tax)
 
 ## Part 1: Foundation
 
@@ -439,45 +435,7 @@ Transaction data includes
 - Transfers
 - User Session ID
 
-## Part 7: Taxation
-
-### Section 1: Land Value Tax
-All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
-
-### Section 2: Transaction Tax
-1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
-
-Annual income (Ł)|Transaction tax added (%)
--|-
-0-20,000|0
-20,000-50,000|0.5
-50,000-100,000|1
-100,000-500,000|1.5
-500,000-1,000,000|2
-1,000,000+|2.5
-
-Wealth (Ł)|Transaction tax added (%)
--|-
-0-50,000|0
-50,000-100,000|0.5
-100,000-500,000|1
-500,000-1,000,000|1.5
-1,000,000-10,000,000|2
-10,000,000+|2.5
-
-2. For example, if an individual has an income of 75,000 Ł per year and a wealth of 750,000 Ł, their transaction tax total would be 3.5% (1% for their income bracket and 1.5% for their wealth bracket). If they bought a product or service that costs 100 Ł, their tax would be 3.5 Ł.
-3. Information about income and wealth are required to be kept confidential on all Lumibank systems. Therefore, transaction tax information is confidential as well and should not be provided to any worker or on any receipt unless authorised by that customer.
-
-### Section 3: Estate Tax
-Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the total amount of money being inherited.
-Inheritance range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that range (Ł)
--|-|-
-0-20,000|10|2,000
-20,000-100,000|30|24,000
-100,000-1,000,000|50|450,000
-1,000,000+|70|∞
-
-## Part 8: Planning
+## Part 7: Planning
 
 ### Section 1: Central Planning Committee
 

@@ -26,63 +26,34 @@ The purpose of the Ministry of Organisations is to facilitate the process for cr
 
 There shall be a Minister of the Ministry of Organisations (Minister of Organisations) who shall be elected by the Assembly via Instant Runoff Voting (IRV).
 
-### Section 3: Remuneration
-
-Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remunerations.
-
 ## Part 2: Organisations
 
 ### Section 1: Creation
 
-#### Paragraph 1: Organisational Form
+The Ministry of Organisations shall maintain an online form for registering organisations, which must require:
 
-While the myPro system does not facilitate the creation of organisations, a paper form shall exist for forms to be created. Both these shall include a form that requires:
-
-- Name of person(s) or organization(s) applying to form an organisation (becomes legal agent).
+- Name of person(s) or organization(s) applying to form an organisation.
 - Full name of organization being formed
 - Any official shorthand / doing organisation as (DBA) names
 - Number of initial shares
 - The full legal name of initial owner(s) and their share(s)
 - Country of registration (the country in which filing is taking place and which the organisation will be considered *de sanguine alieno*).
+- Constitution
 - Signature
 
-#### Paragraph 2: Authorisation to Create Organisations
+Upon the completion of the form, the organisation shall be created. There shall be no fee for the form and no continuous payments.
 
-The Ministry of Organisations shall review these submitted forms and by approval from the Minister of Organisations, the organisation can be created.
+### Section 2: Equity & Debt Registry
 
-#### Paragraph 3: Legal Agent
+#### Paragraph 1: Equity & Debt
 
-Every organisation needs a legal agent that may or may not be located in Lumina. They will serve as the main bridge of communications between the government and the company.
-
-#### Paragraph 4: Company Administration
-
-The administration of companies shall be governed by the Corporate Constitution, which will automatically declare the Director and President to be the legal agent and the headquarters.
-
-### Section 2: Raising
-
-#### Paragraph 1: Raising Form
-
-While the myPro system does not facilitate the raising of equity, a paper form shall exist for forms to be created. Both these shall include a form that requires:
-
-- Name of issuer
-- Number of shares in organisation for sale (total debt for sale if debt raise)
-- Price of shares in organisation for sale (interest rate if debt raise)
-- Jurisdiction of organisation (include: Country, State or Province (if applicable)
-- Address of business
-- Business ID of organisation (numbers ONLY)
-- Business Pass of organisation
-- If crypto raise, enter the main contract and the network it’s on
-- Signature
-
-#### Paragraph 2: Authorisation to Allow Organisations to Raise
-
-The Ministry of Organisations shall review these submitted forms and by approval from the Minister of Organisations, the organisation can perform a raise.
+Each organisation must maintain a list of their equity and debt and who/what owns it.
 
 ### Section 3: Amendment
 
 #### Paragraph 1: Amendment Form
 
-While the myPro system does not facilitate amendments of the Certificate of Incorporation, a paper form shall exist for forms to be created. Both these shall include a form that requires:
+The Ministry of Organisations shall maintain an online form for amending organisations, which must require:
 
 - Name of person(s) or organisation(s) applying to update business information
 - The full name of the company
@@ -92,23 +63,13 @@ While the myPro system does not facilitate amendments of the Certificate of Inco
 - Business Number
 - Signature
 
-#### Paragraph 2: Warnings
-
-The following warnings must be displayed on the form:
-
-- NOTICE: The following fillins are confidential and are not to be released without a Release of Confidential Information form or a change of all confidential information so that the confidential information cannot be recognizable.
-- NOTICE: If the company being changed in this form is a subsidiary, this DOES NOT change any information for the parent company or any large shareholders. Please notify the Business EGI or fillout this form again for the parent company or any large shareholders if you would like to change their information.
-- NOTICE: Under Luminian law, this file must be made public, however, fillin 9 must be changed so that the confidential information cannot be recognizable or this form must be accompanied with an additional Release of Confidential Information form available from the Business EGI website.
-
-#### Paragraph 3: Authorisation to Allow Organisations to Make Amendments to their Certificates of Incorporation
-
-The Ministry of Organisations shall review these submitted forms and by approval from the Minister of Organisations, the organisation can make an amendment to their Certificate of Incorporation.
+Upon the completion of the form with proper authorisation, the organisation shall be amended. There shall be no fee for the form.
 
 ### Section 4: Dissolution
 
 #### Paragraph 1: Dissolution Form
 
-While the myPro system does not facilitate the dissolution of organisations, a paper form shall exist for forms to be created. Both these shall include a form that requires:
+While the myLumina system does not facilitate the dissolution of organisations, a paper form shall exist for forms to be created. Both these shall include a form that requires:
 
 - Name of person(s) or organisation(s) applying to dissolve a business
 - Name of organisation being dissolved
@@ -116,6 +77,4 @@ While the myPro system does not facilitate the dissolution of organisations, a p
 - Business ID of organisation being dissolved (numbers ONLY)
 - Signature
 
-#### Paragraph 3: Authorisation to Allow Organisations to Dissolve
-
-The Ministry of Organisations shall review these submitted forms and by approval from the Minister of Organisations, the organisation can dissolve.
+Upon the completion of the form with proper authorisation, the organisation shall be legally dissolved and assets distributed based on the organisational constitution; if there is no mention of asset distributions, then assets will be distributed to the members and shareholders of the organisation, and if there are no members or shareholders, to the employees, and if there are no employees, to the founders, and if the founders are unable to be paid, then to the Government.

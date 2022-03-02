@@ -78,7 +78,7 @@ Every citizen of Lumina has the duty to:
 12. Protect the natural resources, flora, and fauna, and to safeguard the preservation of a clean environment<sup>1</sup>.
 13. Protect the cultural and historic patrimony and to protect and respect the cultures, languages, traditions, and lands of the aboriginal people<sup>1</sup>.
 14. Act, in one's relations with other people, according to the principle of human solidarity and with respect to the norms of a proper social coexistence<sup>1</sup>.
-15. Work for and contribute to the development of the economy.
+15. Work for and contribute to the development of the economy, under the principle: "He who does not work, neither shall he eat".
 
 <hr>
 

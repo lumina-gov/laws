@@ -14,11 +14,17 @@ The purpose of this act lay out and conserve compulsory human rights and to defi
 ## Division 2: Rights
 ### Section 1: International Law
 The following international documents are recognized as extentions of this act and as fully enforcable parts of law, of which all appropriate ministries shall enforce (assuming Lumina as a State Party to all):
+- [International Convention on the Elimination of All Forms of Racial Discrimination (CERD)](https://www.ohchr.org/Documents/ProfessionalInterest/cerd.pdf)
+- [International Covenant on Civil and Political Rights (CCPR)](https://www.ohchr.org/Documents/ProfessionalInterest/ccpr.pdf)
+- [International Covenant on Economic, Social and Cultural Rights (CESCR)](https://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf)
+- [Convention on the Elimination of All Forms of Discrimination against Women (CEDAW)](https://www.ohchr.org/Documents/ProfessionalInterest/cedaw.pdf)
+- [Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT)](https://www.ohchr.org/Documents/ProfessionalInterest/cat.pdf)
+- [Convention on the Rights of the Child (CRC)](https://www.ohchr.org/Documents/ProfessionalInterest/crc.pdf)
+- [International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (CMW)](https://www.ohchr.org/Documents/ProfessionalInterest/cmw.pdf)
+- [International Convention for the Protection of All Persons from Enforced Disappearance (CED)](https://www.ohchr.org/Documents/ProfessionalInterest/ced.pdf)
+- [Convention on the Rights of Persons with Disabilities (CRPD)](https://www.ohchr.org/Documents/ProfessionalInterest/crpd.pdf)
 - [Universal Declaration of Human Rights](https://www.un.org/sites/un2.un.org/files/udhr.pdf)
-- [International Covenant on Economic, Social and Cultural Rights](https://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf)
-- [International Covenant on Civil and Political Rights](https://www.ohchr.org/Documents/ProfessionalInterest/ccpr.pdf)
 - [United Nations Declaration on the Rights of Indigenous Peoples](https://undocs.org/pdf?symbol=en/A/RES/61/295)
-- [Convention on the Rights of Persons with Disabilities](https://www.un.org/disabilities/documents/convention/convention_accessible_pdf.pdf)
 
 ### Section 2: Individual Liberty
 The Ministry of Security and Ministry of Justice shall protect the following liberties:

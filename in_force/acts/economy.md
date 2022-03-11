@@ -215,17 +215,24 @@ The Government participates in the economy through its control over important in
 - Mail
 
 #### Segment 2: List of Government Enterprises
+##### Paragraph 1: Summary
 The following enterprises shall be established and owned by the Ministry of the Economy, which is owned by the Government, which is owned by the people collectively, and their common and business names shall be in parenthesis and shall also include the name of the firm with the designator excluded (except for the Bank of Lumina), with the designator "Company" referring to for-profit enterprises, "Foundation" referring to non-profit enterprises, and "Agency" referring to subsidized enterprises (services provided by the ministry designated but owned by the Ministry of the Economy), and the Bank of Lumina being a for-profit enterprise:
-1. Lumina Health Agency ("Lumihealth") (Ministry of Health)
-2. Lumina Utilities Foundation ("Spark", "Lumiutilities", "Lumiutil")
-3. Bank of Lumina ("Lumibank")
-4. Lumina Housing Foundation ("Lumihouse")
-5. Lumina Land Company ("Lumiland")
-6. Lumina Manufacturing Company ("Lumimanu")
-7. Lumina Mining Company ("Lumimine"), which must be at least a 50% shareholder of every mining operation in Lumina
-8. Lumina Gas & Oil Company ("LG&O", "Lumigo"), which shall have monopoly power
-9. Lumina Mail Foundation ("Lumimail")
-10. Lumina Transportation Foundation ("Lumitrans")
+
+##### Paragraph 2: List of Government Foundations
+1. Lumina Utilities Foundation ("Spark")
+2. Lumina Housing Foundation
+3. Lumina Mail Foundation
+4. Lumina Transportation Foundation ("Lutrans")
+
+##### Paragraph 3: List of Government Agencies
+1. Lumina Health Agency (Ministry of Health)
+
+##### Paragraph 3: List of Government Companies
+1. Bank of Lumina Company
+2. Lumina Land Company
+3. Lumina Manufacturing Company ("Lumanu")
+4. Lumina Mining Company ("Lumine"), which must be at least a 50% shareholder of every mining operation in Lumina
+5. Lumina Gas & Oil Company ("LG&O", "Lumigo"), which shall have monopoly power
 
 #### Segment 3: Stock & Par Value
 These enterprises shall each initially have 1,000,000 shares of stock. Each will begin operations with an initial investment of a minimum of 1,000,000 Lumis, except for the Lumina Land Company and the Lumina Mail Company.

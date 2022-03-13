@@ -38,3 +38,13 @@ There shall be a Minister of Housing. The Minister of Housing shall be elected b
   * Privacy concerns
     * Functional blinds
     * Sound insulation from other units
+* Building/community goals
+  * Washing machine room
+  * Communal kitchen?
+  * Gym
+  * Access to parks & recreational facilities within 0.5 km
+  * Community meeting area/center/theater within 1 km
+  * Shopping area within 1 km
+  * School within 1 km
+  * Major employment center within 1 km
+  * Bus station within 0.5 km

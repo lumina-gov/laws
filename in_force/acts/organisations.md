@@ -4,7 +4,7 @@
 
 ### Section 1: Preamble
 
-The foundation of this act is to provide and formalise the rules and administrative procedure regarding organisations and the Ministry of Organisations, as well as all of its organisational structure.
+The purpose of this act is to provide and formalise the rules and administrative procedure regarding organisations and the Ministry of Organisations, as well as all of its organisational structure.
 
 ### Section 2: Organisations
 

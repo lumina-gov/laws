@@ -143,6 +143,9 @@ Funds for the MWS are derived from the MWS Reserve Fund (MWSRF). The MWSRF shoul
 #### Paragraph 2: Motto of the MWSRF
 The motto of the MWSRF is "Industry and labor build a free, solidary, and democratic world".
 
+#### Paragraph 3: Surplus
+Any years that have a surplus, that is, the amout deducted from the MWSRF is less than the expected amount, the remainder shall be reinvested.
+
 ### Section 2: System
 
 #### Paragraph 1: System Overview

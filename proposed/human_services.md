@@ -133,31 +133,46 @@ Lumina Human Services is authorised to ask the following questions during a citi
 - proof of address with name: 10 points
 - vehicle registration: 20 points
 
-# Part 3: Municipal Welfare Department & System (MWS)
+## Part 3: Municipal Welfare System
 
-## Section 1: Fund
+### Section 1: Fund
+
+#### Paragraph 1: Fund Overview
 Funds for the MWS are derived from the MWS Reserve Fund (MWSRF). The MWSRF should have enough funds to provide for a minimum 5 years of expenses. Each year, funds expected to be enough to provide for a year should be added to the MWSRF from the Municipal Wealth Fund.
 
-## Section 2: System
+#### Paragraph 2: Motto of the MWSRF
+The motto of the MWSRF is "Industry and labor build a free, solidary, and democratic world".
+
+### Section 2: System
+
+#### Paragraph 1: System Overview
 Each municipal permanent resident and citizen shall be provided a virtual or physical MWS card, which will track their use of products. Persons who do not pay taxes are excluded from the system.
 
+#### Paragraph 2: Monetary Value Restrictions
 If funds in the MWSRF are lower than sustainable levels, monetary value restrictions may be placed on the system.
 
-The MWS will create a guidelines for pricing, excluding (blacklisting), and including (whitelisting) certain items.
+#### Paragraph 3: Restrictions of Items
+The MWS will create guidelines for pricing, excluding (blacklisting), and including (whitelisting) certain items.
 
+#### Paragraph 4: Table of Qualified Items
 The following table describes qualified items on a weekly basis:
 | Item | Quantity |
 |-|-|
-| Water | 100 gallons | 100*0.05
-| Energy | 20 kWh | 20*0.027
-| Wi-Fi | $2.5 worth* | 2.5
-| Fruits & vegetables | 2 kg | 2*5
-| Rice | 1 kg | 2
-| Butter | 250 grams | 1.5
-| Bread | 2 kg | 10
-| Rent | 20 meters square* | 15
-| Hygiene products | $3.5 worth* | 3.5
-| Basic income | $17.5 | 17.5
-* with the respective state-owned provider
+| Water | 100 gallons |
+| Energy | 20 kWh |
+| Wi-Fi | $2.5 worth* |
+| Fruits & vegetables | 2 kg |
+| Rice | 1 kg |
+| Butter | 250 grams |
+| Bread | 2 kg |
+| Rent | 20 meters square* |
+| Hygiene products | $3.5 worth* |
+| Basic income | $17.5 |
 
+\* with the respective state-owned provider
+
+#### Paragraph 5: Estimated Cost
 The estimated cost of the MWS is $97,257.6 in assets per capita for each year of funding assuming a 3 1/3% annual return on assets or $3,241.92 in costs per capita per year.
+
+#### Paragraph 6: Motto of the MWS
+The motto of the MWS is "Freedom from Want".

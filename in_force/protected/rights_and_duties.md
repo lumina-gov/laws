@@ -33,6 +33,7 @@ The Ministry of Security and Ministry of Justice shall protect the following lib
 3. Everyone the right to criticise all forms of of ideas, or ideologies, whether it may be offensive or not.
 4. Everyone has the right to own personal property alone as well as in association with others, which shall not be taken from them by others or the government without their consent.
 5. No person above adult age besides those older by less than 3 years should have or form any intimate relationships with minors.
+6. Everyone has the right to the free exercise of religion in private or to not participate in any religion.
 
 ### Section 3: Government
 The Ministry of Security and Ministry of Justice shall protect the following liberties:
@@ -48,6 +49,7 @@ The Ministry of Security and Ministry of Justice shall protect the following lib
 10. Everyone has the right to stay free inside their property: law enforcement must obtain a warrant from the court with oath of affirmation and probable cause before they are given authorization to forcefully enter private property.
 11. Everyone has the right to trial by jury.
 12. Everyone has the right to not be put subjected to cruel punishments.
+13. The separation of church and state is a fundamental principle of the duties of the Government; religious organisations are not entitled to any special priviliges, and the Government shall operate fully free of religious persuasion and shall operate fully on the basis of logic, utility, and the protection of human right and the people's direct democracy. The Government is secular, and applies nontheism, anticlericalism, and negative atheism for the protection of human right, liberty, and the people's direct democracy from the threat of religious tyranny.
 
 ### Section 4: Conditions
 The Ministry of Human Services shall protect the following liberties:

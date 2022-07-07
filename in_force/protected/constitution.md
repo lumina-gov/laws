@@ -30,7 +30,6 @@
         1. [Paragraph 1: Original Members](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-1-original-members)
         2. [Paragraph 2: New Members](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-2-new-members)
     3. [Section 3: Authority](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-3-authority)
-    4. [Section 4: Payment](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-3-authority)
 
 ## Division 1: Foundation
 
@@ -179,6 +178,3 @@ New members can be admitted by a majority vote of the members of the Central Com
 
 ### Section 3: Authority
 The members of the Central Committee individually have power to create, amend, delete any law, to manage the property of the Government of Lumina (although they are not allowed to take it for themself), and to manage ministries with the power of ministers.
-
-### Section 4: Payment
-The members of the Central Committee shall have a salary of 30 Promas per day.

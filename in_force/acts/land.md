@@ -26,25 +26,24 @@ There shall be a Minister of Land. The Minister of Land shall be elected by the 
 
 ## Part 2: Categorizations
 
-### Section 1: Types
-
-#### Paragraph 1: Zones
+### Section 1: Zones
 The following zones exist:
 1. Industrial: Land that has factories or other facilities that produce considerable degrees of pollution as determined by the proper authorities.
 2. City: City land that can be used for any mixture of non-pollutive residential, business, and corporate purposes.
 4. Rural: Rural land that can be used for any mixture of non-pollutive residential, business, and corporate purposes.
 
-#### Paragraph 2: Status
+### Section 2: Status
 The following statuses of land exist:
 1. Indigenous: Land that autonomous is under the ownership or holding of indigenous communities which are defined under the law. Only the Constitution and indigenous law are applicable in this land.
 2. General: Land that applies
 3. Special: Land that receives either an irrevocable or revocable charter from the municipality to operate on a special basis. Cemetaries are potential examples of special land.
 4. Autonomous: Land that receives a charter from the municipality to operate on an autonomous basis.
 
-#### Paragraph 3: Chronological
+### Section 3: Chronological
 The following chronological types of land exist:
 1. Pre-declaration: Private land holdings existing prior to the legal establishment of the municipality under Australian law. Owners of this land have the right to leave or join the municipality.
 2. Post-declaration: All crown lands existant prior to the legal establishment of the municipality under Australian law, which automatically becomes the property of the municipality.
+
 
 ## Part 3: Registry
 

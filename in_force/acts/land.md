@@ -55,10 +55,16 @@ A law must be passed for irrevocable special and autonomous statuses of Township
 
 ## Part 3: Registry
 
-### Section 1: Creation of a Land Registry
-Lumina Land shall maintain an online registry of land ownership.
+### Section 1: Land Registry
+1. [This file](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/land_registry.sql) is named the Land Registry.
+2. Each row refrences a different plot.
+3. The column `ns_cbn` refers to the NS-CBN.
+4. The column `we_cbn` refers to the WE-CBN.
+5. The column `oin` refers to the specific reference string to account relating to that owner in the Citizen Registry.
+6. The owner of the account referenced by the `oin` column is the owner of the land identified by the combined CBN.
+7. All land not on the Land Registry and not previously owned is owned by the Government.
 
-### Section 2: Transferring of Land
+### Section 2: Transferring
 Owners of land that have their land ownership connected to the land ownership registry can sell or transfer their land using the land ownership registry.
 
 ### Section 3: Previous Ownership

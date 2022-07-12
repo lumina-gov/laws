@@ -8,6 +8,7 @@ Current laws can be found in the [in_force](https://github.com/lumina-gov/laws/t
 Current legislative proposals can be found in the [proposed](https://github.com/lumina-gov/laws/tree/main/proposed) folder.
 
 ## List of laws
+All are in markdown (.md) unless otherwise stated.
 
 ### In force
 
@@ -38,6 +39,7 @@ Current legislative proposals can be found in the [proposed](https://github.com/
 
 ##### Land
 * [Zones](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/zones.md)
+* [Land Registry (SQL)](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/land_registry.sql)
 
 ### Proposed
 * [Education Act](https://github.com/lumina-gov/laws/blob/main/proposed/education.md)

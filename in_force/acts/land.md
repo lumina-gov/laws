@@ -85,7 +85,7 @@ Each plot in a township is 0.01° by 0.01° (about 1.18573 square kilometers).
 
 #### Paragraph 5: Names
 1. Plots have 2 types of names: their coordinate-based name (CBN) and designated name (DN).
-2. The CBN of the first plot (the extreme south-west) is 1-1. The first digit number refers to the north-south position, the last digit refers to the west-east position. The CBN of the last plot (the extreme north-east) is 200-500.
+2. The CBN of the first plot (the extreme south-west) is 1-1. The first digit number (NS-CBN) refers to the north-south position, the last digit number (WE-CBN) refers to the west-east position. The CBN of the last plot (the extreme north-east) is 200-500.
   1. 1st coordinate (north-south) of north-east extreme: -17+0.01•X
   2. 2nd coordinate (west-east) of north-east extreme: 135+0.01•X
   3. 1st number (north-south) of north-east extreme: (X+17)/0.01

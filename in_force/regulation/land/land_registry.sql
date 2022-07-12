@@ -1,6 +1,6 @@
 BEGIN TRANSACTION;
 
-CREATE TABLE LAND_REGISTRY(Id integer PRIMARY KEY, ns_cbn integer, we_cbn integer, TINYTEXT integer, type TINYTEXT, name TINYTEXT);
+CREATE TABLE LAND_REGISTRY(Id integer PRIMARY KEY, ns_cbn integer, we_cbn integer, oin TINYTEXT, type TINYTEXT, name TINYTEXT);
 
 INSERT INTO LAND_REGISTRY VALUES(1, 130,    165,    "5e03d9c027cf496c7414c2f6",  "Citizen", "");
 INSERT INTO LAND_REGISTRY VALUES(2, 1,      1,      "5e03d9c027cf496c7414c2f6",  "Citizen", "");

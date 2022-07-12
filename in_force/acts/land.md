@@ -35,7 +35,7 @@ The following zones exist:
 ### Section 2: Status
 The following statuses of land exist:
 1. Indigenous: Land that autonomous is under the ownership or holding of indigenous communities which are defined under the law. Only the Constitution and indigenous law are applicable in this land.
-2. General: Land that applies
+2. General: Land where general laws apply.
 3. Special: Land that receives either an irrevocable or revocable charter from the municipality to operate on a special basis. Cemetaries are potential examples of special land.
 4. Autonomous: Land that receives a charter from the municipality to operate on an autonomous basis.
 
@@ -43,6 +43,14 @@ The following statuses of land exist:
 The following chronological types of land exist:
 1. Pre-declaration: Private land holdings existing prior to the legal establishment of the municipality under Australian law. Owners of this land have the right to leave or join the municipality.
 2. Post-declaration: All crown lands existant prior to the legal establishment of the municipality under Australian law, which automatically becomes the property of the municipality.
+
+### Section 4: Authorization
+
+#### Paragraph 1: Minister
+The Minister of Land may categorize Township and District zones and categorize revocable special and autonomous statuses.
+
+#### Paragraph 2: Referendum
+A law must be passed for irrevocable special and autonomous statuses of Townships and Districts to be categorized.
 
 
 ## Part 3: Registry

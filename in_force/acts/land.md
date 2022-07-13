@@ -56,13 +56,13 @@ A law must be passed for irrevocable special and autonomous statuses of Township
 ## Part 3: Registry
 
 ### Section 1: Land Registry
-1. [This file](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/land_registry.sql) is named the Land Registry.
-2. Each row refrences a different plot.
-3. The column `ns_cbn` refers to the NS-CBN.
-4. The column `we_cbn` refers to the WE-CBN.
-5. The column `oin` refers to the specific reference string to account relating to that owner in the Citizen Registry.
-6. The owner of the account referenced by the `oin` column is the owner of the land identified by the combined CBN.
-7. All land not on the Land Registry and not previously owned is owned by the Government.
+1. [This file](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/rural_land_registry.sql) is named the Rural Land Registry.
+2. [This file](https://github.com/lumina-gov/laws/blob/main/in_force/regulation/land/city_land_registry.sql) is named the City Land Registry.
+3. Each row refrences a different plot.
+4. The column `ns_cbn` refers to the NS-CBN.
+5. The column `we_cbn` refers to the WE-CBN.
+6. The column `oin` refers to the specific reference string to account relating to that owner in the Citizen Registry.
+7. The owner of the account referenced by the `oin` column is the owner of the land identified by the combined CBN.
 
 ### Section 2: Transferring
 Owners of land that have their land ownership connected to the land ownership registry can sell or transfer their land using the land ownership registry.
@@ -90,12 +90,12 @@ Each plot in a township is 0.01° by 0.01° (about 1.18573 square kilometers).
 4. The number of members in a Township Council is equal to the square root of the number of residents and landowners in that Township rounded up to the nearest whole number.
 
 #### Paragraph 5: Names
-1. Plots have 2 types of names: their coordinate-based name (CBN) and designated name (DN).
+1. Rural Plots have 2 types of names: their coordinate-based name (CBN) and designated name (DN).
 2. The CBN of the first plot (the extreme south-west) is 1-1. The first digit number (NS-CBN) refers to the north-south position, the last digit number (WE-CBN) refers to the west-east position. The CBN of the last plot (the extreme north-east) is 200-500.
-  1. 1st coordinate (north-south) of north-east extreme: -17+0.01•X
-  2. 2nd coordinate (west-east) of north-east extreme: 135+0.01•X
-  3. 1st number (north-south) of north-east extreme: (X+17)/0.01
-  4. 2nd number (west-east) of north-east extreme: (X-135)/0.01
+    1. 1st coordinate (north-south) of north-east extreme: -17+0.01•X
+    2. 2nd coordinate (west-east) of north-east extreme: 135+0.01•X
+    3. 1st number (north-south) of north-east extreme: (X+17)/0.01
+    4. 2nd number (west-east) of north-east extreme: (X-135)/0.01
 4. There are 4,000 theoretical Townships and 100,000 theoretical plots in Lumina, but thousands are in water.
 5. DNs may be designated by a Township Council and must be registered with Lumina Land.
 
@@ -114,10 +114,22 @@ All city zoned post-declaration land (CZPDL) shall be sectioned off into Distric
 Lumina Land shall determine the grid-size of districts, ranging in width from 1 to 5 and in length from 1 to 10.
 
 #### Paragraph 3: Plot Size
-Each plot in a district is 20 meters by 20 meters.
+Each plot in a district is 0.00025° by 0.00025°.
 
 #### Paragraph 4: District Councils
 1. Each District has a District Council, which coordinates the relevant responsibilities of local government on behalf of the District.
 2. District Councils have elections each year for members.
 3. Each resident able to vote has 1 equal vote for the District Council election.
 4. The number of members in a District Council is equal to the square root of the number of residents and landowners in that District rounded up to the nearest whole number.
+
+#### Paragraph 5: Public Routes
+Public routes are Government-owned sections on the borders of all plots measuring 8 meters in width. Public routes subtract from the privately-owned size of plots.
+
+#### Paragraph 5: Names
+1. City Plots have 2 types of names: their coordinate-based name (CBN) and designated name (DN).
+2. The CBN of the first plot (the extreme south-west) is 1-1. The first digit number (NS-CBN) refers to the north-south position, the last digit number (WE-CBN) refers to the west-east position. The CBN of the last plot (the extreme north-east) is 400-400.
+    1. 1st coordinate (north-south) of north-east extreme: -16.1+0.00025•X
+    2. 2nd coordinate (west-east) of north-east extreme: 137.2+0.00025•X
+    3. 1st number (north-south) of north-east extreme: (X+16.1)/0.00025
+    4. 2nd number (west-east) of north-east extreme: (X-137.2)/0.00025
+3. DNs may be designated by a District Council and must be registered with Lumina Land.

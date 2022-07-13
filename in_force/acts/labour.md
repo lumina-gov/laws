@@ -20,6 +20,7 @@ The purpose of Lumina Labour is to:
 - Ensure the stability of employment
 - Promote worker participation in profits
 - Promote a more efficient and competitive marketplace
+- Research and recommend policies to support the living conditions of workers
 
 ### Section 3: Electable Positions (Executives)
 
@@ -30,9 +31,8 @@ There shall be a Minister of Labour. The Minister of Labour shall be elected by 
 ## Division 2: Salary & Benefits
 
 ### Section 1: Increases in salary & benefits
-Each year, all spending on salary and benefits must increase by at least the rate of inflation. The rate of inflation may be determined by the Promabank Subministry of Statistics.
 
-### Section 2: Working hours
+### Section 1: Working hours
 Full time workers may not be obligated to spend more than 2,080 hours working per year or 8 hours per day. All work over 2,080 hours per working year or 8 hours per day shall be made at the knowledgeable consent of the worker.
 
 

@@ -2,12 +2,9 @@
 
 ## Contents
 
-1. [Division 1: Foundation](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-1-foundation)
-    1. [Section 1: Preamble](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-preamble)
-    2. [Section 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-2-purpose)
-2. [Division 2: Executive (Ministries)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-2-executive-ministries)
+1. [Division 1: Executive (Ministries)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-2-executive-ministries)
     1. [Section 1: Ministerial Powers](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-ministerial-powers)
-3. [Division 3: Legislative (Assembly)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-3-legislative-assembly)
+2. [Division 2: Legislative (Assembly)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-3-legislative-assembly)
     1. [Section 1: Introduction](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-introduction)
     2. [Section 2: Act System](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-2-act-system)
         1. [Paragraph 1: Acts](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-acts)
@@ -19,8 +16,8 @@
         5. [Paragraph 4: Directive](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-4-directive)
     4. [Section 4: Act Referencing](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-4-act-referencing)
     5. [Section 5: Amendments](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-5-amendments)
-4. [Division 4: Judicial (Supreme Court)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-4-judicial-supreme-court)
-4. [Division 5: Central Committee](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-5-central-committee)
+3. [Division 3: Judicial (Supreme Court)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-4-judicial-supreme-court)
+4. [Division 4: Central Committee](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-5-central-committee)
     1. [Section 1: Establishment](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-establishment)
         1. [Paragraph 1: Creation](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-creation)
         2. [Paragraph 2: Expiration](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-expiration)
@@ -30,21 +27,7 @@
         2. [Paragraph 2: New Members](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-new-members)
     3. [Section 3: Authority](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-3-authority)
 
-## Division 1: Foundation
-
-### Section 1: Preamble
-The citizens of Lumina, having democratically resolved to join together into a mutual pact of defense and protection through the Government of Lumina ("Government") in order to protect human rights, maintain defense and security, and protect the democratic and social systems, do hereby create the Government of Lumina and authorize this document as its foundational law.
-
-### Section 2: Purpose
-The purpose of this act is to:
-
-1. Establish the existence of the Government, which shall act as the government for the City and Special Economic Zone of Lumina.
-2. Outline the structure, function, and powers of the government.
-3. Create the Assembly, which is the basis of the citizens' power over the government.
-4. Create the ministerial system, established to apply the laws authorized by the Assembly.
-5. Create the courts system, established to interpet the laws and administer justice.
-
-## Division 2: Executive (Ministries)
+## Division 1: Executive (Ministries)
 
 ### Section 1: Ministerial Powers
 By default, Ministers have the power to:
@@ -54,7 +37,7 @@ By default, Ministers have the power to:
 3. Add or remove persons in their ministry, unless explicitly stated prevented by their bounding act.
 4. Order official directives to members of their ministry to achieve a particular objective or result, within the bounds of the law.
 
-## Division 3: Legislative (Assembly)
+## Division 2: Legislative (Assembly)
 
 ### Section 1: Introduction
 1. Lumina's primary form of legislation are acts.
@@ -124,7 +107,7 @@ The process to amend any law is as follows:
 3. If approval of the change is above 50% after that period, the change authorizes an official amendment or deletion of the law.
 4. If approval of the change is below 50% after that period, the change is dismissed.
 
-## Division 4: Judicial (Supreme Court)
+## Division 3: Judicial (Supreme Court)
 
 ### Section 1: Establishment
 The foundational court of the Government is the Supreme Court of Lumina ("Supreme Court").
@@ -148,7 +131,7 @@ Justices of the Supreme Court shall serve 10 year terms.
 1. New members can be added by a self-vote of the Supreme Court.
 2. If there are no members of the court, the Minister of Justice can appoint up to 5 members.
 
-## Division 5: Central Committee
+## Division 4: Central Committee
 
 ### Section 1: Establishment
 

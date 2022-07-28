@@ -6,7 +6,7 @@
 2. [Division 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/principles.md#division-2-purpose)
 
 ## Division 1: Preamble
-The citizens of Lumina, having democratically resolved to join together into a mutual pact of defense and protection through the Government of Lumina ("Government") in order to protect human rights, maintain defense and security, and protect the democratic and social systems, do hereby create the Government of Lumina and authorize the Constitution as its foundational law.
+The citizens of Lumina, having democratically resolved to join together into a mutual pact of defense and protection through the Government of Lumina ("Government") in order to protect human rights, maintain defense and security, and protect the democratic and social systems, do hereby create the Government of Lumina and authorize the Constitutional acts as its foundational law and to authorize the creation of new acts and policies based on the democratic will of the people through the democratically run and organized institutions of the Government.
 
 ## Division 2: Purpose
 The purpose of this act is to:

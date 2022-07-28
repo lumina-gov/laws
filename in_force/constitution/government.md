@@ -1,35 +1,34 @@
-# Constitution Act
+# Government Act
 
 ## Contents
 
-1. [Division 1: Foundation](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#division-1-foundation)
-    1. [Section 1: Preamble](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-1-preamble)
-    2. [Section 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-2-purpose)
-2. [Division 2: Executive (Ministries)](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#division-2-executive-ministries)
-    1. [Section 1: Ministerial Powers](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-1-ministerial-powers)
-3. [Division 3: Legislative (Assembly)](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#division-3-legislative-assembly)
-    1. [Section 1: Introduction](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-1-introduction)
-    2. [Section 2: Act System](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-2-act-system)
-        1. [Paragraph 1: Acts](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-1-acts)
-        2. [Paragraph 2: Act Structure](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-2-act-structure)
-    3. [Section 3: Legislative Hierarchy](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-3-legislative-hierarchy)
-        1. [Paragraph 1: Constitution](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-1-constitution)
-        2. [Paragraph 2: Protected Acts](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-2-protected-acts)
-        3. [Paragraph 3: Acts](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-3-acts)
-        4. [Paragraph 4: Regulations](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-4-regulations)
-        5. [Paragraph 5: Directive](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-5-directive)
-    4. [Section 4: Act Referencing](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-4-act-referencing)
-    5. [Section 5: Amendments](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-5-amendments)
-4. [Division 4: Judicial (Supreme Court)](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#division-4-judicial-supreme-court)
-4. [Division 5: Central Committee](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#division-5-central-committee)
-    1. [Section 1: Establishment](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-1-establishment)
-        1. [Paragraph 1: Creation](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-1-creation)
-        2. [Paragraph 2: Expiration](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-2-expiration)
-        3. [Paragraph 3: Self-Amendment](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-3-self-amendment)
-    2. [Section 2: Members](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-2-members)
-        1. [Paragraph 1: Original Members](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-1-original-members)
-        2. [Paragraph 2: New Members](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#paragraph-2-new-members)
-    3. [Section 3: Authority](https://github.com/lumina-gov/laws/blob/main/in_force/protected/constitution.md#section-3-authority)
+1. [Division 1: Foundation](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-1-foundation)
+    1. [Section 1: Preamble](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-preamble)
+    2. [Section 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-2-purpose)
+2. [Division 2: Executive (Ministries)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-2-executive-ministries)
+    1. [Section 1: Ministerial Powers](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-ministerial-powers)
+3. [Division 3: Legislative (Assembly)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-3-legislative-assembly)
+    1. [Section 1: Introduction](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-introduction)
+    2. [Section 2: Act System](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-2-act-system)
+        1. [Paragraph 1: Acts](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-acts)
+        2. [Paragraph 2: Act Structure](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-act-structure)
+    3. [Section 3: Legislative Hierarchy](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-3-legislative-hierarchy)
+        1. [Paragraph 1: Constitution](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-constitution)
+        3. [Paragraph 2: Acts](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-acts)
+        4. [Paragraph 3: Regulations](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-3-regulations)
+        5. [Paragraph 4: Directive](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-4-directive)
+    4. [Section 4: Act Referencing](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-4-act-referencing)
+    5. [Section 5: Amendments](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-5-amendments)
+4. [Division 4: Judicial (Supreme Court)](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-4-judicial-supreme-court)
+4. [Division 5: Central Committee](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#division-5-central-committee)
+    1. [Section 1: Establishment](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-1-establishment)
+        1. [Paragraph 1: Creation](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-creation)
+        2. [Paragraph 2: Expiration](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-expiration)
+        3. [Paragraph 3: Self-Amendment](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-3-self-amendment)
+    2. [Section 2: Members](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-2-members)
+        1. [Paragraph 1: Original Members](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-1-original-members)
+        2. [Paragraph 2: New Members](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#paragraph-2-new-members)
+    3. [Section 3: Authority](https://github.com/lumina-gov/laws/blob/main/in_force/constitution/government.md#section-3-authority)
 
 ## Division 1: Foundation
 
@@ -37,7 +36,7 @@
 The citizens of Lumina, having democratically resolved to join together into a mutual pact of defense and protection through the Government of Lumina ("Government") in order to protect human rights, maintain defense and security, and protect the democratic and social systems, do hereby create the Government of Lumina and authorize this document as its foundational law.
 
 ### Section 2: Purpose
-The purpose of this constitution is to:
+The purpose of this act is to:
 
 1. Establish the existence of the Government, which shall act as the government for the City and Special Economic Zone of Lumina.
 2. Outline the structure, function, and powers of the government.
@@ -60,7 +59,6 @@ By default, Ministers have the power to:
 ### Section 1: Introduction
 1. Lumina's primary form of legislation are acts.
 2. Acts can be drafted by any citizen. When approved by the Assembly, they become legally binding.
-4. This constitution is an act.
 
 ### Section 2: Act System
 
@@ -85,15 +83,13 @@ By default, Ministers have the power to:
 ### Section 3: Legislative Hierarchy
 
 #### Paragraph 1: Constitution
-The constitution is the supreme act, which supersedes any and all acts, including protected acts, and must follow the amendment protocol if changes to the constitution are required.
+The constitution acts together form the supreme law, which supersedes any and all acts, including protected acts, and must follow the amendment protocol if changes to the constitution are required. The constitution acts are:
+* Government
+* Rights & Duties
+* Symbols
+* Territory
 
-#### Paragraph 2: Protected Acts
-Protected acts are protected by the constitution, and treated as an extension of the constitution. This gives them importance over even newer acts and must follow the amendment protocol if changes to protected acts are required. Protected acts, unlike regular acts, typically do not establish ministries and confer their enforcement to the Government in its entirety. Protected acts include:
-- Rights & Duties Act
-- Symbols Act
-- Territories Act
-
-#### Paragraph 3: Acts
+#### Paragraph 2: Acts
 1. Acts are forms of legislation that administer individual ministries.
 2. Each ministry has its own act. For instance, the Ministry of Justice is created with the Justice Act.
 3. Acts may create state-owned enterprises owned or managed by that ministry.
@@ -101,14 +97,14 @@ Protected acts are protected by the constitution, and treated as an extension of
 5. Independent state-owned enterprises (ones that are not owned or managed by a ministry) may have their own acts.
 6. Parts of a newer act may supersede parts of an older act if their contents conflict.
 
-#### Paragraph 4: Regulations
+#### Paragraph 3: Regulations
 1. A regulation is a piece of legally binding legislation created by a minister.
 2. A minister may delegate the power of creating, modifying or repealing regulations to a member of their ministry.
 3. The type of regulations that a minister may create must be explicitly and specifically stated within the bounding act that establishes the powers of the minister’s role.
 4. Regulations are titled using the following format: [Ministry Name]: [Regulation Name] Regulations, eg: Infrastructure Ministry: Electrical Wiring Regulation
 5. Acts supersede regulations.
 
-#### Paragraph 5: Directive
+#### Paragraph 4: Directive
 A directive is a non-binding document or part of a document created by a Ministry and may act as an official recommendation or standard.
 
 ### Section 4: Act Referencing

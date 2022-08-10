@@ -31,3 +31,8 @@ The Government shall work for the creation of post-scarcity universal entitlemen
 
 #### Paragraph 2: Community-Government
 Traditional governments simultaneously claim to represent the entirety of the people of the state while limiting direct democratic authority. Understanding the traditional dialectic of the state representing elite rule and the community representing the people, the Government is of the people in the sense that it works to resolve any distinction between the community and the Government, with the hope of limiting the use of protests as a means of resolving problems while respecting the right to free expression and protest.
+
+## Division 3: Model of the World
+
+### Section 1: Opposition to "Westphalian sovereignty"
+Lumina argues for creating a new world system that supports the reality of the cosmopolitan and postmodern condition that is able to efficiently and democratically understand the needs of the people of the world, as opposed to the primarily modernist "Westphalian sovereignty" that causes inefficiency and division.

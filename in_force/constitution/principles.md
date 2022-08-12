@@ -23,6 +23,7 @@ The purpose of the Constitution is to:
 ### Section 2: The Government
 
 #### Paragraph 1: Post-Scarcity
+
 The Government shall work for the creation of post-scarcity universal entitlement to certain necessary services, which shall be subsidized and promoted by the Government by the provision of free or affordable public services or appropriate regulation under the democratic will of the people, including but not limited to the following fields:
 * Shelter
 * Healthcare
@@ -30,9 +31,21 @@ The Government shall work for the creation of post-scarcity universal entitlemen
 * Internet
 
 #### Paragraph 2: Community-Government
+
 Traditional governments simultaneously claim to represent the entirety of the people of the state while limiting direct democratic authority. Understanding the traditional dialectic of the state representing elite rule and the community representing the people, the Government is of the people in the sense that it works to resolve any distinction between the community and the Government, with the hope of limiting the use of protests as a means of resolving problems while respecting the right to free expression and protest.
 
 ## Division 3: Model of the World
 
 ### Section 1: Opposition to "Westphalian sovereignty"
+
 Lumina argues for creating a new world system that supports the reality of the cosmopolitan and postmodern condition that is able to efficiently and democratically understand the needs of the people of the world, as opposed to the primarily modernist "Westphalian sovereignty" that causes inefficiency and division.
+
+## Division 4: Sustainability
+
+### Section 1: Paris Agreement
+
+Lumina is committed to the goals and deadlines of the Paris Agreement of 2015 (aka the Paris Climate Accords) for the government, all organisations, and individuals. Namely, the goal to "achieve a balance between anthropogenic emissions by sources and removals by sinks of greenhouse gases in the second half of this century, on the basis of equity, and in the context of sustainable development and efforts to eradicate poverty," ([Article 4 of the Paris Agreement](https://en.wikisource.org/wiki/Paris_Agreement#Article_4)). In addition, Lumina is committed to fully supporting other parts of the world transition to sustainable lifestyles through investments.
+
+### Section 2: Car-free Development
+
+Lumina is committed to being a fully walkable and bikeable city, removing the need for most automobiles, while still supporting infrastructure for emergency vehicles and the "last-mile" of distribution networks. Lumina will develop protected and separate bike lanes along major streets to support the safety of bicycling.

@@ -52,6 +52,7 @@ By default, Ministers have the power to:
 4. Acts may establish ministries and delegate powers to the positions within those ministries.
 5. Acts may codify punishments.
 6. Acts may declare a ministry as an administrator of its contents.
+7. Acts may create rules or goals that ministries can take appropriate or defined actions to work towards.
 
 #### Paragraph 2: Act Structure
 

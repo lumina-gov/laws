@@ -2,19 +2,7 @@
 
 - [Part 1: Foundation](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-1-foundation)
     - [Section 1: Preamble](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-preamble)
-    - [Section 2: Economy](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-economy)
-        - [Segment 1: Establishment](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-establishment)
-            - [Paragraph 1: Ministry of the Economy](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-1-ministry-of-the-economy)
-            - [Paragraph 2: Ministry of Taxation](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-2-ministry-of-taxation)
-            - [Paragraph 3: Ministry of Monetary Regulation](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-3-minsitry-of-monetary-regulation)
-            - [Paragraph 4: Ministry of the Budget](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-4-ministry-of-the-budget)
-            - [Paragraph 5: Ministry of Trade](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-5-ministry-of-trade)
-            - [Paragraph 6: Ministry of National Investment](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-6-ministry-of-national-investment)
-            - [Paragraph 7: Ministry of the Treasury](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-7-ministry-of-the-treasury)
-            - [Paragraph 8: Ministry of Remuneration](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-8-ministry-of-remuneration)
-            - [Paragraph 9: Ministry of Planning](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-9-ministry-of-Planning)
-            - [Paragraph 10: Ministry of Worker Cooperatives](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-10-ministry-of-worker-cooperatives)
-        - [Segment 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-purpose)
+    - [Section 2: Purpose](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-purpose)
     - [Section 3: Electable Positions](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-electable-positions)
         - [Segment 1: Minister](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-1-minister)
             - [Paragraph 1: Position](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#paragraph-1-position)
@@ -87,41 +75,7 @@
 ### Section 1: Preamble
 The purpose of this act is to provide and formalise the infrastructure, powers, and responsibilities of the Ministry of the Economy, as well as all of its organisational structure.
 
-### Section 2: Economy
-
-#### Segment 1: Establishment
-
-##### Paragraph 1: Ministry of the Economy
-There shall exist the Ministry of the Economy.
-
-##### Paragraph 2: Ministry of Taxation
-There shall exist a Ministry of Taxation, a subministry of the Ministry of the Economy, which shall serve as the official taxation authority in Lumina.
-
-##### Paragraph 3: Minsitry of Monetary Regulation
-There shall exist a Ministry of Monetary Regulation, a subministry of the Ministry of the Economy, which shall serve as the official independent council with which Lumibank shall be run.
-
-##### Paragraph 4: Ministry of the Budget
-There shall exist a Ministry of the Budget, a subministry of the Ministry of the Economy, which shall serve as the authority that shall decide the budget of the government.
-
-##### Paragraph 5: Ministry of Trade
-There shall exist a Ministry of Trade, a subministry of the Ministry of the Economy, which shall serve as the authority that implements the trade rules of Lumina and makes recommendations to the organisations and government of Lumina as to the best trade practices.
-
-##### Paragraph 6: Ministry of Investment
-There shall exist a Ministry of Investment, a subministry of the Ministry of the Economy, which shall serve as the independent council that makes investments on behalf of the government and which shall have direct authority over the Sovereign Wealth Fund (SWF).
-
-##### Paragraph 7: Ministry of the Treasury
-There shall exist a Ministry of the Treasury, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall supervise government assets and the government bank account.
-
-##### Paragraph 8: Ministry of Remuneration
-There shall exist a Ministry of Remuneration, an independent subministry of the Ministry of the Economy, which shall serve as the independent council that shall decide government employee salaries and assist in efficient allocation of employees and resources for government funds.
-
-##### Paragraph 9: Ministry of Planning
-There shall exist a Ministry of Planning, a subministry of the Ministry of the Economy, which shall serve as the independent council that shall create, implement, and coordinate Economic and Settlement Plans for Lumina, divided into 1 year and 5 year periods. They shall coordinate and make recommendations to the Ministry of the Economy and Assembly for funds for State-Owned Enterprises and Ministries and make recommendations to cooperative and private enterprises to fit within the Economic and Settlement Plans.
-
-##### Paragraph 10: Ministry of Worker Cooperatives
-There shall exist a Ministry of Worker Cooperatives, a subministry of the Ministry of the Economy, which shall serve as the body responsible for supporting the creation and financing of worker cooperatives in the industries required by law.
-
-#### Segment 2: Purpose
+### Section 2: Purpose
 The purpose of the Ministry of the Economy is to
 - Finance the people, businesses, organisations, and government of Lumina
 - Securely hold the funds of the people, businesses, organisations, and government of Lumina
@@ -129,20 +83,7 @@ The purpose of the Ministry of the Economy is to
 - Support the economy through the creation of Lumis and independent management of credit
 - Facilitate investment in Lumina, both public and private
 
-### Section 3: Electable Positions
-
-#### Segment 1: Minister
-
-##### Paragraph 1: Position
-There shall be a Minister of the Economy, who has the authority to appoint Ministers fo all of the subministries of the Ministry of the Economy.
-
-##### Paragraph 2: Election Method
-The minister shall be elected by the Assembly via Instant Runoff Voting (IRV).
-
-### Section 4: Remuneration
-Remuneration of the organisation executives and monetary council members shall be determined by the Ministry of Remuneration, a board of individuals appointed by IRV, who shall not have any influence over the other subministries of the Ministry of the Economy.
-
-### Section 5: Payments Systems Board
+### Section 3: Payments Systems Board
 
 #### Segment 1: Preamble
 The Payments System Board exists to develop, improve the payments system of Lumina, and ensure it remains innovative and fulfills the purposes of retail banking, central banking, and transactional banking, and integrates with other Ministries.

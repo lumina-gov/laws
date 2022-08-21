@@ -60,7 +60,7 @@ The Ministry of Human Services shall protect the following liberties:
     4. Equal pay for equal work
     5. Form and join trade unions for the protection of the worker
     6. Organise a collective strike
-2. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays.
+2. Everyone has the right to rest and leisure, including reasonable limitation of working hours and periodic holidays, and to green and recreation spaces. The Government will maintain and operate a free publicly-owned parks and open spaces as community and recreation centers with a focus on equity, inclusion, safety, sustainability, and improving quality of life.
 3. Everyone has the right to food, water and shelter.
 4. Everyone has the right to education. Fundamental education shall be compulsory.
 5. Everyone has the right freely to participate in the cultural life of the community, to enjoy the arts and to share in scientific and technological advancement and its benefits.

@@ -14,17 +14,17 @@ The purpose of this act lay out and conserve compulsory human rights and to defi
 ## Division 2: Rights
 ### Section 1: International Law
 The following international documents are recognized as extentions of this act and as fully enforcable parts of law, of which all appropriate ministries shall enforce (assuming Lumina as a State Party to all):
-- [International Convention on the Elimination of All Forms of Racial Discrimination (CERD)](https://www.ohchr.org/Documents/ProfessionalInterest/cerd.pdf)
-- [International Covenant on Civil and Political Rights (CCPR)](https://www.ohchr.org/Documents/ProfessionalInterest/ccpr.pdf)
-- [International Covenant on Economic, Social and Cultural Rights (CESCR)](https://www.ohchr.org/Documents/ProfessionalInterest/cescr.pdf)
-- [Convention on the Elimination of All Forms of Discrimination against Women (CEDAW)](https://www.ohchr.org/Documents/ProfessionalInterest/cedaw.pdf)
-- [Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT)](https://www.ohchr.org/Documents/ProfessionalInterest/cat.pdf)
-- [Convention on the Rights of the Child (CRC)](https://www.ohchr.org/Documents/ProfessionalInterest/crc.pdf)
-- [International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (CMW)](https://www.ohchr.org/Documents/ProfessionalInterest/cmw.pdf)
-- [International Convention for the Protection of All Persons from Enforced Disappearance (CED)](https://www.ohchr.org/Documents/ProfessionalInterest/ced.pdf)
-- [Convention on the Rights of Persons with Disabilities (CRPD)](https://www.ohchr.org/Documents/ProfessionalInterest/crpd.pdf)
-- [Universal Declaration of Human Rights](https://www.un.org/sites/un2.un.org/files/udhr.pdf)
-- [United Nations Declaration on the Rights of Indigenous Peoples](https://undocs.org/pdf?symbol=en/A/RES/61/295)
+- [International Convention on the Elimination of All Forms of Racial Discrimination (CERD)](https://www.ohchr.org/sites/default/files/cerd.pdf)
+- [International Covenant on Civil and Political Rights (CCPR)](https://en.wikisource.org/wiki/International_Covenant_on_Civil_and_Political_Rights)
+- [International Covenant on Economic, Social and Cultural Rights (CESCR)](https://en.wikisource.org/wiki/International_Covenant_on_Economic,_Social_and_Cultural_Rights)
+- [Convention on the Elimination of All Forms of Discrimination against Women (CEDAW)](https://en.wikisource.org/wiki/Convention_on_the_Elimination_of_All_Forms_of_Discrimination_Against_Women)
+- [Convention against Torture and Other Cruel, Inhuman or Degrading Treatment or Punishment (CAT)](https://en.wikisource.org/wiki/United_Nations_Convention_against_Torture_and_Other_Cruel,_Inhuman_or_Degrading_Treatment_or_Punishment)
+- [Convention on the Rights of the Child (CRC)](https://en.wikisource.org/wiki/United_Nations_Convention_on_the_Rights_of_the_Child)
+- [International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (CMW)](https://www.ohchr.org/sites/default/files/cmw.pdf)
+- [International Convention for the Protection of All Persons from Enforced Disappearance (CED)](https://www.ohchr.org/sites/default/files/disappearance-convention.pdf)
+- [Convention on the Rights of Persons with Disabilities (CRPD)](https://www.ohchr.org/sites/default/files/Ch_IV_15.pdf)
+- [Universal Declaration of Human Rights](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf)
+- [United Nations Declaration on the Rights of Indigenous Peoples](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N06/512/07/PDF/N0651207.pdf)
 
 ### Section 2: Individual Liberty
 The Ministry of Security and Ministry of Justice shall protect the following liberties:

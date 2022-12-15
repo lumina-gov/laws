@@ -19,7 +19,7 @@
         -  [Segment 2: Appointment](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#segment-2-appointment)
 - [Part 2: Taxes](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#part-2-Taxes)
     - [Section 1: Land Value Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-1-land-value-tax)
-    - [Section 2: Transaction Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-transaction-tax)
+    - [Section 2: FairTax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-2-transaction-tax)
     - [Section 3: Estate Tax](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-3-estate-tax)
     - [Section 4: Capital & Dividend Taxes](https://github.com/lumina-gov/laws/blob/main/in_force/acts/economy.md#section-4-capital-&-dividend-taxes)
 
@@ -71,34 +71,26 @@ The management structure shall consist of a
 #### Segment 2: Appointment
 All management positions shall be appointed by the Minister.
 
-## Part 7: Taxation
+## Part 2: Taxation
 
 ### Section 1: Land Value Tax
-All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
+1. All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
+2. This tax does not apply to persons living in resident-owned homes or for land being used by the owned.
+3. This tax may not be charged directly to tenants.
 
-### Section 2: Transaction Tax
-1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the income and wealth of the individual or enterprise paying it, defined by the chart as follows:
-
-Annual income (Ł)|Transaction tax added (%)
--|-
-0-20,000|0
-20,000-50,000|0.5
-50,000-100,000|1
-100,000-500,000|1.5
-500,000-1,000,000|2
-1,000,000+|2.5
-
-Wealth (Ł)|Transaction tax added (%)
--|-
-0-50,000|0
-50,000-100,000|0.5
-100,000-500,000|1
-500,000-1,000,000|1.5
-1,000,000-10,000,000|2
-10,000,000+|2.5
-
-2. For example, if an individual has an income of 75,000 Ł per year and a wealth of 750,000 Ł, their transaction tax total would be 3.5% (1% for their income bracket and 1.5% for their wealth bracket). If they bought a product or service that costs 100 Ł, their tax would be 3.5 Ł.
-3. Information about income and wealth are required to be kept confidential on all Lumibank systems. Therefore, transaction tax information is confidential as well and should not be provided to any worker or on any receipt unless authorised by that customer.
+### Section 2: FairTax
+1. All initiators of transactions are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the income and wealth of the individual or enterprise paying it.
+2. The base rate of the FairTax is 5%.
+3. The rate of FairTax that persons pay is equivalent to $(100%+100%-p)*5%$ percent, where $p$ is the income percentile.
+4. Income percentiles are made available publicly by the Ministry of Taxation and are to be made available to individuals on their portals. Information included in this percentile is limited to:
+    1. Income from certified work or exchanges, not including *quid pro quo* work or exchanges or informal work or exchanges.
+    2. Income from investments, which is defined as: dividends and capital gains in a given fiscal year.
+    3. Income from gifts, including from estates and non-currency gifts, only above the equivalent to 5,000 Australian Dollars per year.
+5. For the purposes of taxation, all income made in any other assets other than the official currency, such as Australian Dollars or United States Dollars, in Lumina is converted to the official currency at the official exchange rates as established by the Ministry of Taxation.
+6. Information about income, wealth, and status, including the FairTax, are required to be kept confidential on all government systems and not shared with any non-government systems unless authorization from the given individual, that individual's legal custodian or person with the power of attorney, or from a court order in a criminal investigation.
+7. FairTax should not be processed by the seller, but automatically processed by the payment system to the government.
+8. Any seller whose employees are at least 50%+1 located in Lumina are subject to a 20% deduction in the FairTax paid by customers.
+9. FairTax does not apply for non-final products, including ore, steel, parts, and more that are sold to others for the purpose of making new products.
 
 ### Section 3: Estate Tax
 Inheritances are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina based on the total amount of money being inherited.
@@ -110,4 +102,8 @@ Inheritance range (Ł)|Tax rate on that range (%)|Maximum applicable tax on that
 1,000,000+|70|∞
 
 ### Section 4: Capital Tax
-All capital gains and dividends are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina equivalent to 2 times the transaction tax.
+1. All capital gains and dividends are subject to a percentage tax which is paid to the Ministry of Taxation directly by the Bank of Lumina equivalent to the transaction tax.
+2. Capital transactions are excluded from the FairTax.
+3. This section does not deny the inclusion of investment income.
+4. Purchasing and the sale of legal tender for other legal tender is exempted from the capital tax, including the purchasing or sale of government-created bullion and coinage. Income from these sources is still included in total income for the purposes of FairTax.
+5. Sale of legal tender for non-legal tender is subject to the capital tax.

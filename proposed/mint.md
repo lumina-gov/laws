@@ -2,7 +2,7 @@
 
 ## Section 1. Lumina Silver Dollar
 1. A co-official legal tender of Lumina is the Lumina Silver Dollar ("S$").
-2. Each S$ represents is equivalent to $\frac{99}{128}$ grams of fine silver.
+2. Each S$ represents is equivalent to $\frac{99}{128}$ troy ounces of fine silver.
 3. The Mint of Lumina ("Mint") is authorized to manufacture in Lumina and sell up to 100,000 S$ in face value of coins per year. Authorized denominations of the S$ include:
     1.  $\frac{1}{10}$
     2.  $\frac{3}{20}$

@@ -31,6 +31,7 @@
     4. 10;
     5. 20\.
 5. The Mint is commanded to ensure that each coin of the G$ is at least 90% pure gold and that the weight of fine gold in each coin is equivalent to at least $\frac{1881}{1250}$ grams of fine silver per G$.
+6. The Gold Dollar is not equivalent and should not be marketed as equivalent to the Silver Dollar.
 
 ## Section 3: Coin Design & Rates
 1. The official exchange rate is S$1 and G$1 for each 100Ł. The government guarantees the one-directional conversion from Gold Dollars and Silver Dollars to Lumins with this rate.

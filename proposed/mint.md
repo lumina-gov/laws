@@ -26,7 +26,7 @@
 2. Each G$ represents is equivalent to $\frac{188}{125}$ grams of fine gold.
 3. The Mint is authorized to manufacture in Lumina and sell up to G$50,000 in face value of coins per year. Authorized denominations of the G$ include:
     1. 1;
-    2. 2.5;
+    2. $\frac{5}{2}$;
     3. 5;
     4. 10;
     5. 20\.

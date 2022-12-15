@@ -3,7 +3,7 @@
 ## Section 1. Lumina Silver Dollar
 1. A co-official legal tender of Lumina is the Lumina Silver Dollar ("S$").
 2. Each S$ represents is equivalent to $\frac{3008}{125}$ grams of fine silver.
-3. The Mint of Lumina ("Mint") is authorized to manufacture in Lumina and sell up to 100,000 S$ in face value of coins per year. Authorized denominations of the S$ include:
+3. The Mint of Lumina ("Mint") is authorized to manufacture in Lumina and sell up to S$100,000 in face value of coins per year. Authorized denominations of the S$ include:
     1.  $\frac{1}{10}$
     2.  $\frac{3}{20}$
     3.  $\frac{1}{5}$
@@ -32,7 +32,7 @@
 ## Section 2. Lumina Gold Dollar
 1. A co-official legal tender of Lumina is the Lumina Gold Dollar ("G$").
 2. Each G$ represents is equivalent to $\frac{188}{125}$ grams of fine gold.
-3. The Mint of Lumina ("Mint") is authorized to manufacture in Lumina and sell up to 50,000 S$ in face value of coins per year. Authorized denominations of the G$ include:
+3. The Mint of Lumina ("Mint") is authorized to manufacture in Lumina and sell up to G$50,000 in face value of coins per year. Authorized denominations of the G$ include:
     1. 1
     2. 2.5
     3. 5

@@ -75,7 +75,7 @@ All management positions shall be appointed by the Minister.
 
 ### Section 1: Land Value Tax
 1. All landlords are required to pay a tax of 1% of the market value of their land per annum to the Ministry of Taxation.
-2. This tax does not apply to persons living in resident-owned homes or for land being used by the owned.
+2. This tax does not apply to persons living in resident-owned homes or for land being used by the owner.
 3. This tax may not be charged directly to tenants.
 
 ### Section 2: FairTax

@@ -20,7 +20,7 @@
     14.  5
     15.  10
 4. Coins of the S$ are required to be manufactured in the territory of Lumina as defined under the law of Lumina.
-5. The Mint is commanded to ensure that each coin of the S$ is at least 90% pure silver and that the weight of fine silver in each coin is equivalent to at least $\frac{99}{128}$ grams of fine silver per S$.
+5. The Mint is commanded to ensure that each coin of the S$ is at least 90% pure silver and that the weight of fine silver in each coin is equivalent to at least $\frac{99}{128}$ troy ounces of fine silver per S$.
 6. Private entities are allowed to issue banknotes for the S$ in any denomination they want, which must, upon request, on normal banking offices at any office that must be written on their notes (or all offices or their head office) be converted to physical silver at the legal rate of the S$ (not necessarily in S$ coins). It is couterfeiting to violate this promise. These notes are considered liabilities on the books of the bank.
 7. All coins must have the following designs:
     1. The motto of Lumina;

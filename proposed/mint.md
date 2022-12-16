@@ -34,12 +34,11 @@
 6. The Gold Dollar is not equivalent and should not be marketed as equivalent to the Silver Dollar.
 
 ## Section 3: Coin Design & Rates
-1. The official exchange rate is S$1 and G$1 for each 100Ł. The government guarantees the one-directional conversion from Gold Dollars and Silver Dollars to Lumins with this rate.
-2. All coins must have the following designs:
+1. All coins must have the following designs:
     1. The motto of Lumina;
     2. "Lumina";
     3. A symbol commemorating the indigenous people and lands of Lumina;
     4. The denomination; and
     5. The fineness and weight of silver.
-3. Private entities are allowed to issue banknotes for the Silver and Gold Dollars in any denomination they want, which must, upon request, on normal banking offices at any office that must be written on their notes (or all offices or their head office) be converted to physical gold or silver at the legal rate (not necessarily in coins). It is couterfeiting to violate this promise. These notes are considered liabilities on the books of the bank. The minimum rate for conversion to qualify is determined by the entity but must be at most in a rate equivalent to 1 kilogram of fine silver or 1 ounce of fine gold.
-4. Coins of the Silver and Gold Dollars are required to be manufactured in the territory of Lumina as defined under the law of Lumina.
+2. Private entities are allowed to issue banknotes for the Silver and Gold Dollars in any denomination they want, which must, upon request, on normal banking offices at any office that must be written on their notes (or all offices or their head office) be converted to physical gold or silver at the legal rate (not necessarily in coins). It is couterfeiting to violate this promise. These notes are considered liabilities on the books of the bank. The minimum rate for conversion to qualify is determined by the entity but must be at most in a rate equivalent to 1 kilogram of fine silver or 1 ounce of fine gold.
+3. Coins of the Silver and Gold Dollars are required to be manufactured in the territory of Lumina as defined under the law of Lumina.

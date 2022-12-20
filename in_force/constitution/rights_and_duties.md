@@ -1,4 +1,4 @@
-# Rights & Duties Act
+# Rights & Duties
 
 ## Division 1: Foundation
 ### Section 1: Preamble
@@ -27,16 +27,16 @@ The following international documents are recognized as extentions of this act a
 - [United Nations Declaration on the Rights of Indigenous Peoples](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N06/512/07/PDF/N0651207.pdf)
 
 ### Section 2: Individual Liberty
-The Ministry of Security and Ministry of Justice shall protect the following liberties:
 1. Everyone has the right to life from birth.
 2. No one shall be subjected cruel, inhumane or degrading torture, treatment or punishment.
 3. Everyone the right to criticise all forms of of ideas, or ideologies, whether it may be offensive or not.
 4. Everyone has the right to own personal property alone as well as in association with others, which shall not be taken from them by others or the government without their consent.
 5. No person above adult age besides those older by less than 3 years should have or form any intimate relationships with minors.
 6. Everyone has the right to the free exercise of religion in private or to not participate in any religion.
+7. Nobody should have their rights, freedom, or property taken away unless they violate the individual freedoms or autonomy of another individual or hurt the collective freedom as determined by a court of law and defined under the law of the democratic will on the basis of popular sovereignty.
+8. Rights, freedom, and property should not be taken away arbitrarily.
 
 ### Section 3: Government
-The Ministry of Security and Ministry of Justice shall protect the following liberties:
 1. Everyone below the age of 17 must not directly serve in conflict.
 2. No one shall be subjected to arbitrary arrest, detention or exile.
 3. Everyone is entitled to a fair and public hearing to determine whether they are guilty against the criminal charges against them.
@@ -52,7 +52,6 @@ The Ministry of Security and Ministry of Justice shall protect the following lib
 13. The separation of church and state is a fundamental principle of the duties of the Government; religious organisations are not entitled to any special priviliges, and the Government shall operate fully free of religious persuasion and shall operate fully on the basis of logic, utility, and the protection of human right and the people's direct democracy. The Government is secular, and applies nontheism, anticlericalism, and negative atheism for the protection of human right, liberty, and the people's direct democracy from the threat of religious tyranny.
 
 ### Section 4: Conditions
-The Ministry of Human Services shall protect the following liberties:
 1. Everyone has the right, without any discrimination to:
     1. Work
     2. Choice of employment

@@ -1,4 +1,4 @@
-# Mint Act
+# Mint
 
 # Part 1. Organization
 
@@ -17,18 +17,18 @@ The authority over the Mint of Lumina is constituted in the President of the Min
 
 ## Section 1. Silver Coins
 The Mint of Lumina is authorized to, each year, manufacture in Lumina and sell up to:
-1. 100,000 silver bullion coins with an Actual Silver Weight (ASW) of ≥1 troy ounce of fine silver and a face value of 10 Aura;
-2. 50,000 silver bullion coins with an ASW of ≥0.5 troy ounces of fine silver and a face value of 5 Aura;
-3. 25,000 silver bullion coins with an ASW of ≥0.25 troy ounces of fine silver and a face value of 2.5 Aura;
-4. 10,000 silver bullion coins with an ASW of ≥0.1 troy ounces of fine silver and a face value of 1 Aura; and
-5. 1,000 silver bullion coins with an ASW of ≥1 kilogram of fine silver and a face value of 100 Aura.
+1. 100,000 silver bullion coins with an Actual Silver Weight (ASW) of ≥1 troy ounce of fine silver and a face value of 5 Aura;
+2. 10,000 silver bullion coins with an ASW of ≥5 troy ounces of fine silver and a face value of 25 Aura;
+3. 5,000 silver bullion coins with an ASW of ≥10 troy ounces of fine silver and a face value of 50 Aura;
+4. 1,000 silver bullion coins with an ASW of ≥1 kilogram of fine silver and a face value of 100 Aura;
+5. 100,000 silver bullion coins with an ASW of ≥0.25 troy ounces of fine silver and a face value of 1 Aura.
 
 ## Section 2. Gold Coins
 The Mint of Lumina is authorized to, each year, manufacture in Lumina and sell up to:
 1. 10,000 gold bullion coins with an Actual Gold Weight (AGW) of ≥1 troy ounce of fine gold and a face value of 100 Aura;
 2. 5,000 gold bullion coins with an AGW of ≥0.5 troy ounces of fine gold and a face value of 50 Aura;
-3. 2,500 gold bullion coins with an AGW of ≥0.25 troy ounces of fine gold and a face value of 25 Aura;
-4. 1,000 gold bullion coins with an AGW of ≥0.1 troy ounces of fine gold and a face value of 10 Aura; and
+3. 5,000 gold bullion coins with an AGW of ≥0.25 troy ounces of fine gold and a face value of 25 Aura;
+4. 5,000 gold bullion coins with an AGW of ≥0.1 troy ounces of fine gold and a face value of 10 Aura; and
 5. 1 gold bullion coin with an AGW of ≥1 kilogram of fine gold and a face value of 10,000 Aura.
 
 ## Section 3: Coin Designs & Rates

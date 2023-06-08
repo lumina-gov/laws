@@ -76,7 +76,7 @@ The following international documents are recognized as extentions of this act a
 2. All children have the right to stable and secure households. They have the right to not be concerned about the physical, financial, environmental, or social security of their household.
 3. No child should need to work to provide for the well-being of their household. Children of age 14 or higher may choose to work on their own volition and for their own benefit, but shall not work in such times or amounts that may conflict with their educational duties or adequate rest or leisure.
 4. Minors have the right and obligation to participate in the educational system to promote their educational, productive, and social development.
-5. Minors have the right to healthcare, including the rights to autonomy, decision-making, and confidentiality over reproductive healthcare once they have reached fifteen years of age. The right of children to education about and access to healthcare, including sexual and reproductive healthcare, is inviolable.
+5. Minors have the right to healthcare. This includes the rights to full autonomy, decision-making, and confidentiality over reproductive healthcare once they have reached fifteen years of age. The right of children to education about and access to healthcare, including sexual and reproductive healthcare, is inviolable.
 
 ## Division 3: Duties
 Every citizen of Lumina has the duty to:

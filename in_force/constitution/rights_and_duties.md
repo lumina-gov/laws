@@ -23,7 +23,7 @@ The following international documents are recognized as extentions of this act a
 - [International Convention on the Protection of the Rights of All Migrant Workers and Members of Their Families (CMW)](https://www.ohchr.org/sites/default/files/cmw.pdf)
 - [International Convention for the Protection of All Persons from Enforced Disappearance (CED)](https://www.ohchr.org/sites/default/files/disappearance-convention.pdf)
 - [Convention on the Rights of Persons with Disabilities (CRPD)](https://www.ohchr.org/sites/default/files/Ch_IV_15.pdf)
-- [Universal Declaration of Human Rights](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf)
+- [Universal Declaration of Human Rights (UDHR)](https://www.un.org/sites/un2.un.org/files/2021/03/udhr.pdf)
 - [United Nations Declaration on the Rights of Indigenous Peoples](https://documents-dds-ny.un.org/doc/UNDOC/GEN/N06/512/07/PDF/N0651207.pdf)
 
 ### Section 2: Individual Liberty

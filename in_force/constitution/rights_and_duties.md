@@ -71,6 +71,13 @@ The following international documents are recognized as extentions of this act a
 10. Every worker has the right to social security. When a person cannot work due to age, maternity, paternity, disability, or illness, the social security and pension systems will provide them a basic quality of life.
 11. No worker shall be obligated to work for more than 40 hours per week or 10 hours on a given day (unless their job is essential to public safety as determined by the Minister of Human Services, which they must consent to understanding). Any person working these hours has the right to be able to afford food, water, shelter, education and have spare money and time to develop their education and friendships and have rest time.
 
+### Section 5: Children
+1. The government finds that the protection and rights of children and minors are of considerable importance to the proper functioning of any society or government, and that frequently, the neglect of children is a result of structural factors, including but not limited to children's lack of embedded legal rights and proper structures for the enforcement and regulation of such rights.
+2. All children have the right to stable and secure households. They have the right to not be concerned about the physical, financial, environmental, or social security of their household.
+3. No child should need to work to provide for the well-being of their household.
+4. Minors have the right and obligation to participate in the educational system to promote their educational, productive, and social development.
+5. Minors have the right to healthcare, including the rights to autonomy, decision-making, and confidentiality over reproductive healthcare once they have reached fifteen years of age. The right of children to education about and access to healthcare, including sexual and reproductive healthcare, is inviolable.
+
 ## Division 3: Duties
 Every citizen of Lumina has the duty to:
 1. Respect the lawful decisions of the people voiced through the direct democratic system.

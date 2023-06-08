@@ -50,6 +50,7 @@ The following international documents are recognized as extentions of this act a
 11. Everyone has the right to trial by jury.
 12. Everyone has the right to not be put subjected to cruel punishments.
 13. The separation of church and state is a fundamental principle of the duties of the Government; religious organisations are not entitled to any special priviliges, and the Government shall operate fully free of religious persuasion and shall operate fully on the basis of logic, utility, and the protection of human right and the people's direct democracy. The Government is secular, and applies nontheism, anticlericalism, and negative atheism for the protection of human right, liberty, and the people's direct democracy from the threat of religious tyranny.
+14. Pursuant to international law, including Article 14 of the UDHR, everyone has the right to the freedom of movement, meaning that all non-private property or non-designated property is free for all persons to enjoy in any such capacity that is not in violation of the law, whether penal, environmental, or otherwise. This is limited in the cases of imminent environmental catastrophe and public health hazards, such as nuclear waste storage, contaminated air, or a disease (quarantine).
 
 ### Section 4: Conditions
 1. Everyone has the right, without any discrimination to:
